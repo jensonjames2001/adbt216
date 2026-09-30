@@ -1,0 +1,1171 @@
+{
+ "attribution": "Map data © OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
+ "generated_at": "2026-09-30T19:40:28+00:00",
+ "source": {
+  "mode": "fixture",
+  "endpoint": null,
+  "files": [
+   "overpass_junctions_and_ways.json",
+   "overpass_roads_geom.json"
+  ],
+  "box": {
+   "west": -0.7,
+   "south": 51.36,
+   "east": -0.25,
+   "north": 51.6
+  },
+  "roads": [
+   "M25",
+   "M3",
+   "M4",
+   "A316"
+  ],
+  "osm_base": "2026-09-30T18:01:58Z"
+ },
+ "box": {
+  "west": -0.7,
+  "south": 51.36,
+  "east": -0.25,
+  "north": 51.6
+ },
+ "roads": [
+  "M25",
+  "M3",
+  "M4",
+  "A316"
+ ],
+ "junctions": [
+  {
+   "osm_id": 292217,
+   "lat": 51.3756964,
+   "lon": -0.3078771,
+   "ref": null,
+   "name": "Hook Junction",
+   "road": "A3",
+   "roads": [
+    "A3"
+   ]
+  },
+  {
+   "osm_id": 1460628264,
+   "lat": 51.3741042,
+   "lon": -0.2985459,
+   "ref": null,
+   "name": "Hook Junction",
+   "road": "A3",
+   "roads": [
+    "A3"
+   ]
+  },
+  {
+   "osm_id": 1454265629,
+   "lat": 51.393157,
+   "lon": -0.2599009,
+   "ref": null,
+   "name": "Malden Junction",
+   "road": "A3",
+   "roads": [
+    "A3"
+   ]
+  },
+  {
+   "osm_id": 224831696,
+   "lat": 51.3757376,
+   "lon": -0.2843302,
+   "ref": null,
+   "name": "Tolworth Junction",
+   "road": "A3",
+   "roads": [
+    "A3"
+   ]
+  },
+  {
+   "osm_id": 224831941,
+   "lat": 51.3823925,
+   "lon": -0.2772036,
+   "ref": null,
+   "name": "Tolworth Junction",
+   "road": "A3",
+   "roads": [
+    "A3"
+   ]
+  },
+  {
+   "osm_id": 1643979893,
+   "lat": 51.4671955,
+   "lon": -0.4921104,
+   "ref": null,
+   "name": null,
+   "road": "A3044",
+   "roads": [
+    "A3044"
+   ]
+  },
+  {
+   "osm_id": 1372157334,
+   "lat": 51.3759554,
+   "lon": -0.3215465,
+   "ref": null,
+   "name": "Hook Junction",
+   "road": "A309",
+   "roads": [
+    "A309"
+   ]
+  },
+  {
+   "osm_id": 1647046888,
+   "lat": 51.4654515,
+   "lon": -0.4962881,
+   "ref": null,
+   "name": null,
+   "road": "A3113",
+   "roads": [
+    "A3113"
+   ]
+  },
+  {
+   "osm_id": 202188,
+   "lat": 51.5128604,
+   "lon": -0.4030655,
+   "ref": null,
+   "name": "Ossie Garvin Roundabout",
+   "road": "A312",
+   "roads": [
+    "A312"
+   ]
+  },
+  {
+   "osm_id": 1762929330,
+   "lat": 51.5196804,
+   "lon": -0.3978322,
+   "ref": null,
+   "name": "Ossie Garvin Roundabout",
+   "road": "A312",
+   "roads": [
+    "A312"
+   ]
+  },
+  {
+   "osm_id": 1596367541,
+   "lat": 51.4214201,
+   "lon": -0.4134649,
+   "ref": "1",
+   "name": "Sunbury Cross",
+   "road": "A316",
+   "roads": [
+    "A316"
+   ]
+  },
+  {
+   "osm_id": 202324,
+   "lat": 51.4223286,
+   "lon": -0.4098236,
+   "ref": null,
+   "name": null,
+   "road": "A316",
+   "roads": [
+    "A316"
+   ]
+  },
+  {
+   "osm_id": 1668991650,
+   "lat": 51.4310642,
+   "lon": -0.399238,
+   "ref": null,
+   "name": null,
+   "road": "A316",
+   "roads": [
+    "A316"
+   ]
+  },
+  {
+   "osm_id": 1674543818,
+   "lat": 51.4274117,
+   "lon": -0.4048514,
+   "ref": null,
+   "name": null,
+   "road": "A316",
+   "roads": [
+    "A316"
+   ]
+  },
+  {
+   "osm_id": 2622876369,
+   "lat": 51.4322613,
+   "lon": -0.3960089,
+   "ref": null,
+   "name": null,
+   "road": "A316",
+   "roads": [
+    "A316"
+   ]
+  },
+  {
+   "osm_id": 295836,
+   "lat": 51.4351664,
+   "lon": -0.3851506,
+   "ref": null,
+   "name": "Apex Corner",
+   "road": "A316",
+   "roads": [
+    "A316"
+   ]
+  },
+  {
+   "osm_id": 1452626238,
+   "lat": 51.4384404,
+   "lon": -0.3744833,
+   "ref": null,
+   "name": "Apex Corner",
+   "road": "A316",
+   "roads": [
+    "A316"
+   ]
+  },
+  {
+   "osm_id": 1366715,
+   "lat": 51.4955709,
+   "lon": -0.6202164,
+   "ref": null,
+   "name": null,
+   "road": "A332",
+   "roads": [
+    "A332",
+    "A355"
+   ]
+  },
+  {
+   "osm_id": 252285223,
+   "lat": 51.4860728,
+   "lon": -0.6230022,
+   "ref": null,
+   "name": null,
+   "road": "A332",
+   "roads": [
+    "A332"
+   ]
+  },
+  {
+   "osm_id": 2617842490,
+   "lat": 51.4804582,
+   "lon": -0.6245035,
+   "ref": null,
+   "name": null,
+   "road": "A332",
+   "roads": [
+    "A332"
+   ]
+  },
+  {
+   "osm_id": 1690901697,
+   "lat": 51.5603477,
+   "lon": -0.4857197,
+   "ref": "1",
+   "name": "Denham Roundabout",
+   "road": "A40",
+   "roads": [
+    "A40",
+    "M40"
+   ]
+  },
+  {
+   "osm_id": 197281,
+   "lat": 51.5287094,
+   "lon": -0.2878334,
+   "ref": null,
+   "name": null,
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 197317,
+   "lat": 51.5265797,
+   "lon": -0.2763504,
+   "ref": null,
+   "name": null,
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 9241207,
+   "lat": 51.5372526,
+   "lon": -0.35218,
+   "ref": null,
+   "name": null,
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 32553206,
+   "lat": 51.5350795,
+   "lon": -0.3417686,
+   "ref": null,
+   "name": null,
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 83791219,
+   "lat": 51.5261623,
+   "lon": -0.2743299,
+   "ref": null,
+   "name": null,
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 1777475844,
+   "lat": 51.5266416,
+   "lon": -0.2794675,
+   "ref": null,
+   "name": null,
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 1697713837,
+   "lat": 51.5218834,
+   "lon": -0.2637844,
+   "ref": null,
+   "name": "Gypsy Corner",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 2535881011,
+   "lat": 51.5191981,
+   "lon": -0.2623581,
+   "ref": null,
+   "name": "Gypsy Corner",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 197222,
+   "lat": 51.5309591,
+   "lon": -0.2999555,
+   "ref": null,
+   "name": "Hanger Lane",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 91689371,
+   "lat": 51.5280812,
+   "lon": -0.286726,
+   "ref": null,
+   "name": "Hanger Lane",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 212345,
+   "lat": 51.5493971,
+   "lon": -0.4333658,
+   "ref": null,
+   "name": "Hillingdon Circus",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 9935203,
+   "lat": 51.5563507,
+   "lon": -0.4608142,
+   "ref": null,
+   "name": "Hillingdon Circus",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 197239,
+   "lat": 51.5332407,
+   "lon": -0.3223379,
+   "ref": null,
+   "name": "Perivale",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 197271,
+   "lat": 51.5341387,
+   "lon": -0.3345105,
+   "ref": null,
+   "name": "Perivale",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 212340,
+   "lat": 51.5480075,
+   "lon": -0.4066937,
+   "ref": null,
+   "name": "Polish Airforce Memorial",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 4158140007,
+   "lat": 51.5474481,
+   "lon": -0.3923472,
+   "ref": null,
+   "name": "Polish Airforce Memorial",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 212388,
+   "lat": 51.5594472,
+   "lon": -0.4741425,
+   "ref": null,
+   "name": "Swakeleys Roundabout",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 1478963139,
+   "lat": 51.5571225,
+   "lon": -0.4636573,
+   "ref": null,
+   "name": "Swakeleys Roundabout",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 202118,
+   "lat": 51.5412215,
+   "lon": -0.3730238,
+   "ref": null,
+   "name": "Target Roundabout",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 212330,
+   "lat": 51.5456663,
+   "lon": -0.3858008,
+   "ref": null,
+   "name": "Target Roundabout",
+   "road": "A40",
+   "roads": [
+    "A40"
+   ]
+  },
+  {
+   "osm_id": 30184984,
+   "lat": 51.5322186,
+   "lon": -0.2949388,
+   "ref": null,
+   "name": null,
+   "road": "A4005",
+   "roads": [
+    "A4005"
+   ]
+  },
+  {
+   "osm_id": 269336646,
+   "lat": 51.5316043,
+   "lon": -0.2947568,
+   "ref": null,
+   "name": null,
+   "road": "A4005",
+   "roads": [
+    "A4005"
+   ]
+  },
+  {
+   "osm_id": 197169,
+   "lat": 51.5426496,
+   "lon": -0.2753892,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 197175,
+   "lat": 51.5415806,
+   "lon": -0.2759637,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 197181,
+   "lat": 51.5382816,
+   "lon": -0.2815069,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 197198,
+   "lat": 51.5334369,
+   "lon": -0.2907113,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 13378754,
+   "lat": 51.5573709,
+   "lon": -0.2535761,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 13378771,
+   "lat": 51.5561447,
+   "lon": -0.2527548,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 87297403,
+   "lat": 51.5531272,
+   "lon": -0.2543923,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 87301677,
+   "lat": 51.5606039,
+   "lon": -0.253045,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 87339925,
+   "lat": 51.5463345,
+   "lon": -0.2684249,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 244209729,
+   "lat": 51.5600233,
+   "lon": -0.2535025,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 450790413,
+   "lat": 51.5615839,
+   "lon": -0.2526034,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 2761664715,
+   "lat": 51.5595661,
+   "lon": -0.253505,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 2761758288,
+   "lat": 51.5590551,
+   "lon": -0.2538024,
+   "ref": null,
+   "name": null,
+   "road": "A406",
+   "roads": [
+    "A406"
+   ]
+  },
+  {
+   "osm_id": 1522785,
+   "lat": 51.5141164,
+   "lon": -0.4504817,
+   "ref": null,
+   "name": null,
+   "road": "A408",
+   "roads": [
+    "A408"
+   ]
+  },
+  {
+   "osm_id": 25676240,
+   "lat": 51.5089498,
+   "lon": -0.4497549,
+   "ref": null,
+   "name": null,
+   "road": "A408",
+   "roads": [
+    "A408"
+   ]
+  },
+  {
+   "osm_id": 202471,
+   "lat": 51.3789794,
+   "lon": -0.5116616,
+   "ref": "11",
+   "name": "Chertsey",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 10112883,
+   "lat": 51.3713267,
+   "lon": -0.5075588,
+   "ref": "11",
+   "name": "Chertsey",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 202412,
+   "lat": 51.3951974,
+   "lon": -0.5343109,
+   "ref": "12",
+   "name": "Thorpe",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 205979,
+   "lat": 51.4054517,
+   "lon": -0.539558,
+   "ref": "12",
+   "name": "Thorpe",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 1588846676,
+   "lat": 51.4474695,
+   "lon": -0.5259874,
+   "ref": "13",
+   "name": "Runnymede",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 1643469193,
+   "lat": 51.4390136,
+   "lon": -0.532826,
+   "ref": "13",
+   "name": "Runnymede",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 323752,
+   "lat": 51.4796198,
+   "lon": -0.5031811,
+   "ref": "14",
+   "name": "Poyle",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 1588846751,
+   "lat": 51.4623831,
+   "lon": -0.5153219,
+   "ref": "14",
+   "name": "Poyle",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 1625254699,
+   "lat": 51.4736811,
+   "lon": -0.5005741,
+   "ref": "14",
+   "name": "Poyle",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 205516,
+   "lat": 51.4889157,
+   "lon": -0.4961763,
+   "ref": "15",
+   "name": "Thorney",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 5939561214,
+   "lat": 51.5007825,
+   "lon": -0.4957537,
+   "ref": "15",
+   "name": "Thorney",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 205418,
+   "lat": 51.5599981,
+   "lon": -0.5307181,
+   "ref": "16",
+   "name": "Denham",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 207007842,
+   "lat": 51.565865,
+   "lon": -0.5334257,
+   "ref": "16",
+   "name": "Denham",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 1588921630,
+   "lat": 51.5545233,
+   "lon": -0.5276119,
+   "ref": "16",
+   "name": "Denham",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 1690901753,
+   "lat": 51.5613575,
+   "lon": -0.5317576,
+   "ref": "16",
+   "name": "Denham",
+   "road": "M25",
+   "roads": [
+    "M25"
+   ]
+  },
+  {
+   "osm_id": 1596367540,
+   "lat": 51.4166284,
+   "lon": -0.4241062,
+   "ref": "1",
+   "name": "Sunbury Cross",
+   "road": "M3",
+   "roads": [
+    "M3"
+   ]
+  },
+  {
+   "osm_id": 1517554590,
+   "lat": 51.4009895,
+   "lon": -0.5294323,
+   "ref": "2",
+   "name": "Thorpe",
+   "road": "M3",
+   "roads": [
+    "M3"
+   ]
+  },
+  {
+   "osm_id": 1595261953,
+   "lat": 51.3991554,
+   "lon": -0.5469432,
+   "ref": "2",
+   "name": "Thorpe",
+   "road": "M3",
+   "roads": [
+    "M3"
+   ]
+  },
+  {
+   "osm_id": 295274,
+   "lat": 51.4893105,
+   "lon": -0.2771888,
+   "ref": "1",
+   "name": "Chiswick Roundabout",
+   "road": "M4",
+   "roads": [
+    "M4",
+    "A4"
+   ]
+  },
+  {
+   "osm_id": 225183,
+   "lat": 51.4914468,
+   "lon": -0.2997293,
+   "ref": "2",
+   "name": "Brentford",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 12194074,
+   "lat": 51.4913219,
+   "lon": -0.2927731,
+   "ref": "2",
+   "name": "Brentford",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 205916,
+   "lat": 51.4928924,
+   "lon": -0.4171336,
+   "ref": "3",
+   "name": "Cranford Parkway",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 252145838,
+   "lat": 51.4907349,
+   "lon": -0.4026268,
+   "ref": "3",
+   "name": "Cranford Parkway",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 205900,
+   "lat": 51.4959188,
+   "lon": -0.4595656,
+   "ref": "4",
+   "name": "Heathrow",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 205910,
+   "lat": 51.4949127,
+   "lon": -0.4448223,
+   "ref": "4",
+   "name": "Heathrow",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 179008924,
+   "lat": 51.49451,
+   "lon": -0.4535916,
+   "ref": "4",
+   "name": "Heathrow",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 9753663377,
+   "lat": 51.4820531,
+   "lon": -0.4525336,
+   "ref": "4A",
+   "name": "Concorde Roundabout",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 205491,
+   "lat": 51.4942279,
+   "lon": -0.5056703,
+   "ref": "4B",
+   "name": "Thorney",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 205498,
+   "lat": 51.4943076,
+   "lon": -0.4794029,
+   "ref": "4B",
+   "name": "Thorney",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 218574,
+   "lat": 51.4928929,
+   "lon": -0.5348433,
+   "ref": "5",
+   "name": "Langley Roundabout",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 218592,
+   "lat": 51.489934,
+   "lon": -0.5499458,
+   "ref": "5",
+   "name": "Langley Roundabout",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 218631,
+   "lat": 51.502023,
+   "lon": -0.6096188,
+   "ref": "6",
+   "name": "Tuns Lane",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 252150316,
+   "lat": 51.5050631,
+   "lon": -0.6250663,
+   "ref": "6",
+   "name": "Tuns Lane",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 218671,
+   "lat": 51.5119188,
+   "lon": -0.6593709,
+   "ref": "7",
+   "name": "Huntercombe Spur",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 286367961,
+   "lat": 51.5115784,
+   "lon": -0.6560816,
+   "ref": "7",
+   "name": "Huntercombe Spur",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 252150488,
+   "lat": 51.5155648,
+   "lon": -0.6544099,
+   "ref": null,
+   "name": null,
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 223517,
+   "lat": 51.4877372,
+   "lon": -0.3873192,
+   "ref": null,
+   "name": "Heston Services",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 12185622,
+   "lat": 51.4886654,
+   "lon": -0.3941504,
+   "ref": null,
+   "name": "Heston Services",
+   "road": "M4",
+   "roads": [
+    "M4"
+   ]
+  },
+  {
+   "osm_id": 1690901702,
+   "lat": 51.5617754,
+   "lon": -0.5074486,
+   "ref": "1",
+   "name": "Denham Roundabout",
+   "road": "M40",
+   "roads": [
+    "M40"
+   ]
+  },
+  {
+   "osm_id": 1608908333,
+   "lat": 51.5606606,
+   "lon": -0.5185445,
+   "ref": "1A",
+   "name": "Denham",
+   "road": "M40",
+   "roads": [
+    "M40"
+   ]
+  },
+  {
+   "osm_id": 1609258567,
+   "lat": 51.5635238,
+   "lon": -0.551363,
+   "ref": "1A",
+   "name": "Denham",
+   "road": "M40",
+   "roads": [
+    "M40"
+   ]
+  },
+  {
+   "osm_id": 1690901757,
+   "lat": 51.5921376,
+   "lon": -0.6205764,
+   "ref": "2",
+   "name": "Beaconsfield",
+   "road": "M40",
+   "roads": [
+    "M40"
+   ]
+  },
+  {
+   "osm_id": 5938833484,
+   "lat": 51.5962738,
+   "lon": -0.6339582,
+   "ref": "2",
+   "name": "Beaconsfield",
+   "road": "M40",
+   "roads": [
+    "M40"
+   ]
+  },
+  {
+   "osm_id": 60268838,
+   "lat": 51.5422436,
+   "lon": -0.3752886,
+   "ref": null,
+   "name": null,
+   "road": null,
+   "roads": []
+  },
+  {
+   "osm_id": 2734620911,
+   "lat": 51.5388736,
+   "lon": -0.2777779,
+   "ref": null,
+   "name": null,
+   "road": null,
+   "roads": []
+  }
+ ]
+}

@@ -9,3 +9,4 @@ __pycache__/
 fixtures/live/
 probes/out/
 fixtures/*/live/
+*.egg-info/
