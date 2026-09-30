@@ -1,0 +1,6950 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-30T18:01:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 197169,
+  "lat": 51.5426496,
+  "lon": -0.2753892,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 197175,
+  "lat": 51.5415806,
+  "lon": -0.2759637,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 197181,
+  "lat": 51.5382816,
+  "lon": -0.2815069,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 197198,
+  "lat": 51.5334369,
+  "lon": -0.2907113,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 197222,
+  "lat": 51.5309591,
+  "lon": -0.2999555,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Hanger Lane"
+  }
+},
+{
+  "type": "node",
+  "id": 197239,
+  "lat": 51.5332407,
+  "lon": -0.3223379,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Perivale"
+  }
+},
+{
+  "type": "node",
+  "id": 197271,
+  "lat": 51.5341387,
+  "lon": -0.3345105,
+  "tags": {
+    "destination": "Perivale",
+    "highway": "motorway_junction",
+    "name": "Perivale"
+  }
+},
+{
+  "type": "node",
+  "id": 197281,
+  "lat": 51.5287094,
+  "lon": -0.2878334,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 197317,
+  "lat": 51.5265797,
+  "lon": -0.2763504,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 202118,
+  "lat": 51.5412215,
+  "lon": -0.3730238,
+  "tags": {
+    "exit_to": "Heathrow Airport,Hayes,Southall,Yeading,A312",
+    "highway": "motorway_junction",
+    "name": "Target Roundabout",
+    "source:exit_to": "traffic_sign"
+  }
+},
+{
+  "type": "node",
+  "id": 202188,
+  "lat": 51.5128604,
+  "lon": -0.4030655,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Ossie Garvin Roundabout"
+  }
+},
+{
+  "type": "node",
+  "id": 202324,
+  "lat": 51.4223286,
+  "lon": -0.4098236,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 202412,
+  "lat": 51.3951974,
+  "lon": -0.5343109,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Thorpe",
+    "ref": "12"
+  }
+},
+{
+  "type": "node",
+  "id": 202471,
+  "lat": 51.3789794,
+  "lon": -0.5116616,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Chertsey",
+    "ref": "11"
+  }
+},
+{
+  "type": "node",
+  "id": 205418,
+  "lat": 51.5599981,
+  "lon": -0.5307181,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Denham",
+    "ref": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 205491,
+  "lat": 51.4942279,
+  "lon": -0.5056703,
+  "tags": {
+    "exit_to": "M25, (M1) Watford, (M40) Birmingham, Heathrow Airport T4, (M23) Gatwick Airport, (M3) Winchester",
+    "highway": "motorway_junction",
+    "name": "Thorney",
+    "ref": "4B"
+  }
+},
+{
+  "type": "node",
+  "id": 205498,
+  "lat": 51.4943076,
+  "lon": -0.4794029,
+  "tags": {
+    "exit_to": "M25, Heathrow Airport T4, (M23) Gatwick Airport, (M40) Birmingham, (M1) Watford",
+    "highway": "motorway_junction",
+    "name": "Thorney",
+    "ref": "4B"
+  }
+},
+{
+  "type": "node",
+  "id": 205516,
+  "lat": 51.4889157,
+  "lon": -0.4961763,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Thorney",
+    "ref": "15"
+  }
+},
+{
+  "type": "node",
+  "id": 205900,
+  "lat": 51.4959188,
+  "lon": -0.4595656,
+  "tags": {
+    "destination": "Heathrow",
+    "exit_to": "Uxbridge, Hayes,Heathrow Airport T123",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Heathrow",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 205910,
+  "lat": 51.4949127,
+  "lon": -0.4448223,
+  "tags": {
+    "destination": "Heathrow",
+    "exit_to": "(A408) Uxbridge,Heathrow Airport T123",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Heathrow",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 205916,
+  "lat": 51.4928924,
+  "lon": -0.4171336,
+  "tags": {
+    "destination:ref": "A312",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Cranford Parkway",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 205979,
+  "lat": 51.4054517,
+  "lon": -0.5395580,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Thorpe",
+    "ref": "12"
+  }
+},
+{
+  "type": "node",
+  "id": 212330,
+  "lat": 51.5456663,
+  "lon": -0.3858008,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Target Roundabout"
+  }
+},
+{
+  "type": "node",
+  "id": 212340,
+  "lat": 51.5480075,
+  "lon": -0.4066937,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Polish Airforce Memorial"
+  }
+},
+{
+  "type": "node",
+  "id": 212345,
+  "lat": 51.5493971,
+  "lon": -0.4333658,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Hillingdon Circus",
+    "old_name": "Master Brewer"
+  }
+},
+{
+  "type": "node",
+  "id": 212388,
+  "lat": 51.5594472,
+  "lon": -0.4741425,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Swakeleys Roundabout"
+  }
+},
+{
+  "type": "node",
+  "id": 218574,
+  "lat": 51.4928929,
+  "lon": -0.5348433,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Langley Roundabout",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 218592,
+  "lat": 51.4899340,
+  "lon": -0.5499458,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Langley Roundabout",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 218631,
+  "lat": 51.5020230,
+  "lon": -0.6096188,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Tuns Lane",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 218671,
+  "lat": 51.5119188,
+  "lon": -0.6593709,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Huntercombe Spur",
+    "ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 223517,
+  "lat": 51.4877372,
+  "lon": -0.3873192,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Heston Services"
+  }
+},
+{
+  "type": "node",
+  "id": 225183,
+  "lat": 51.4914468,
+  "lon": -0.2997293,
+  "tags": {
+    "destination": "North Circular Road;South Circular Road",
+    "destination:ref": "A4",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Brentford",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 292217,
+  "lat": 51.3756964,
+  "lon": -0.3078771,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Hook Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 295274,
+  "lat": 51.4893105,
+  "lon": -0.2771888,
+  "tags": {
+    "destination": "A406 North Circular;A205 South Circular;A315 Chiswick",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Chiswick Roundabout",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 295836,
+  "lat": 51.4351664,
+  "lon": -0.3851506,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Apex Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 323752,
+  "lat": 51.4796198,
+  "lon": -0.5031811,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Poyle",
+    "ref": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 1366715,
+  "lat": 51.4955709,
+  "lon": -0.6202164,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1522785,
+  "lat": 51.5141164,
+  "lon": -0.4504817,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 9241207,
+  "lat": 51.5372526,
+  "lon": -0.3521800,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 9935203,
+  "lat": 51.5563507,
+  "lon": -0.4608142,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Hillingdon Circus",
+    "old_name": "Master Brewer"
+  }
+},
+{
+  "type": "node",
+  "id": 10112883,
+  "lat": 51.3713267,
+  "lon": -0.5075588,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Chertsey",
+    "ref": "11"
+  }
+},
+{
+  "type": "node",
+  "id": 12185622,
+  "lat": 51.4886654,
+  "lon": -0.3941504,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Heston Services"
+  }
+},
+{
+  "type": "node",
+  "id": 12194074,
+  "lat": 51.4913219,
+  "lon": -0.2927731,
+  "tags": {
+    "destination": "Staines, Hounslow",
+    "destination:ref": "A4",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Brentford",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13378754,
+  "lat": 51.5573709,
+  "lon": -0.2535761,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 13378771,
+  "lat": 51.5561447,
+  "lon": -0.2527548,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 25676240,
+  "lat": 51.5089498,
+  "lon": -0.4497549,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 30184984,
+  "lat": 51.5322186,
+  "lon": -0.2949388,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 32553206,
+  "lat": 51.5350795,
+  "lon": -0.3417686,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 60268838,
+  "lat": 51.5422436,
+  "lon": -0.3752886,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 83791219,
+  "lat": 51.5261623,
+  "lon": -0.2743299,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 87297403,
+  "lat": 51.5531272,
+  "lon": -0.2543923,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 87301677,
+  "lat": 51.5606039,
+  "lon": -0.2530450,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 87339925,
+  "lat": 51.5463345,
+  "lon": -0.2684249,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 91689371,
+  "lat": 51.5280812,
+  "lon": -0.2867260,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Hanger Lane"
+  }
+},
+{
+  "type": "node",
+  "id": 179008924,
+  "lat": 51.4945100,
+  "lon": -0.4535916,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Heathrow",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 207007842,
+  "lat": 51.5658650,
+  "lon": -0.5334257,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Denham",
+    "ref": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 224831696,
+  "lat": 51.3757376,
+  "lon": -0.2843302,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Tolworth Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 224831941,
+  "lat": 51.3823925,
+  "lon": -0.2772036,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Tolworth Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 244209729,
+  "lat": 51.5600233,
+  "lon": -0.2535025,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 252145838,
+  "lat": 51.4907349,
+  "lon": -0.4026268,
+  "tags": {
+    "destination:ref": "A312",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Cranford Parkway",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 252150316,
+  "lat": 51.5050631,
+  "lon": -0.6250663,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Tuns Lane",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 252150488,
+  "lat": 51.5155648,
+  "lon": -0.6544099,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 252285223,
+  "lat": 51.4860728,
+  "lon": -0.6230022,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 269336646,
+  "lat": 51.5316043,
+  "lon": -0.2947568,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 286367961,
+  "lat": 51.5115784,
+  "lon": -0.6560816,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Huntercombe Spur",
+    "ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 450790413,
+  "lat": 51.5615839,
+  "lon": -0.2526034,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1372157334,
+  "lat": 51.3759554,
+  "lon": -0.3215465,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Hook Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1452626238,
+  "lat": 51.4384404,
+  "lon": -0.3744833,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Apex Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 1454265629,
+  "lat": 51.3931570,
+  "lon": -0.2599009,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Malden Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1460628264,
+  "lat": 51.3741042,
+  "lon": -0.2985459,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Hook Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1478963139,
+  "lat": 51.5571225,
+  "lon": -0.4636573,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Swakeleys Roundabout"
+  }
+},
+{
+  "type": "node",
+  "id": 1517554590,
+  "lat": 51.4009895,
+  "lon": -0.5294323,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Thorpe",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 1588846676,
+  "lat": 51.4474695,
+  "lon": -0.5259874,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Runnymede",
+    "ref": "13"
+  }
+},
+{
+  "type": "node",
+  "id": 1588846751,
+  "lat": 51.4623831,
+  "lon": -0.5153219,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Poyle",
+    "ref": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 1588921630,
+  "lat": 51.5545233,
+  "lon": -0.5276119,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Denham",
+    "ref": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 1595261953,
+  "lat": 51.3991554,
+  "lon": -0.5469432,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Thorpe",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 1596367540,
+  "lat": 51.4166284,
+  "lon": -0.4241062,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Sunbury Cross",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1596367541,
+  "lat": 51.4214201,
+  "lon": -0.4134649,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Sunbury Cross",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1608908333,
+  "lat": 51.5606606,
+  "lon": -0.5185445,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Denham",
+    "ref": "1A"
+  }
+},
+{
+  "type": "node",
+  "id": 1609258567,
+  "lat": 51.5635238,
+  "lon": -0.5513630,
+  "tags": {
+    "destination": "M25 (N) (M1, M11);Watford",
+    "highway": "motorway_junction",
+    "name": "Denham",
+    "ref": "1A"
+  }
+},
+{
+  "type": "node",
+  "id": 1625254699,
+  "lat": 51.4736811,
+  "lon": -0.5005741,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Poyle",
+    "ref": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 1643469193,
+  "lat": 51.4390136,
+  "lon": -0.5328260,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Runnymede",
+    "ref": "13"
+  }
+},
+{
+  "type": "node",
+  "id": 1643979893,
+  "lat": 51.4671955,
+  "lon": -0.4921104,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1647046888,
+  "lat": 51.4654515,
+  "lon": -0.4962881,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1668991650,
+  "lat": 51.4310642,
+  "lon": -0.3992380,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1674543818,
+  "lat": 51.4274117,
+  "lon": -0.4048514,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1690901697,
+  "lat": 51.5603477,
+  "lon": -0.4857197,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Denham Roundabout",
+    "ref": "1",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1690901702,
+  "lat": 51.5617754,
+  "lon": -0.5074486,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Denham Roundabout",
+    "ref": "1",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1690901753,
+  "lat": 51.5613575,
+  "lon": -0.5317576,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Denham",
+    "ref": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 1690901757,
+  "lat": 51.5921376,
+  "lon": -0.6205764,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Beaconsfield",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 1697713837,
+  "lat": 51.5218834,
+  "lon": -0.2637844,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Gypsy Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 1762929330,
+  "lat": 51.5196804,
+  "lon": -0.3978322,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Ossie Garvin Roundabout"
+  }
+},
+{
+  "type": "node",
+  "id": 1777475844,
+  "lat": 51.5266416,
+  "lon": -0.2794675,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 2535881011,
+  "lat": 51.5191981,
+  "lon": -0.2623581,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Gypsy Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 2617842490,
+  "lat": 51.4804582,
+  "lon": -0.6245035,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 2622876369,
+  "lat": 51.4322613,
+  "lon": -0.3960089,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 2734620911,
+  "lat": 51.5388736,
+  "lon": -0.2777779,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 2761664715,
+  "lat": 51.5595661,
+  "lon": -0.2535050,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 2761758288,
+  "lat": 51.5590551,
+  "lon": -0.2538024,
+  "tags": {
+    "highway": "motorway_junction"
+  }
+},
+{
+  "type": "node",
+  "id": 4158140007,
+  "lat": 51.5474481,
+  "lon": -0.3923472,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Polish Airforce Memorial"
+  }
+},
+{
+  "type": "node",
+  "id": 5938833484,
+  "lat": 51.5962738,
+  "lon": -0.6339582,
+  "tags": {
+    "exit_to": "A355 Beaconsfield, Amersham, Slough",
+    "highway": "motorway_junction",
+    "name": "Beaconsfield",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 5939561214,
+  "lat": 51.5007825,
+  "lon": -0.4957537,
+  "tags": {
+    "alt_name": "Colnbrook",
+    "highway": "motorway_junction",
+    "name": "Thorney",
+    "ref": "15"
+  }
+},
+{
+  "type": "node",
+  "id": 9753663377,
+  "lat": 51.4820531,
+  "lon": -0.4525336,
+  "tags": {
+    "exit_to": "Heathrow Tunnel",
+    "highway": "motorway_junction",
+    "layer": "3",
+    "name": "Concorde Roundabout",
+    "ref": "4A"
+  }
+},
+{
+  "type": "way",
+  "id": 343709,
+  "nodes": [
+    295274,
+    2255448500,
+    1409862473,
+    1409863551,
+    252143004
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "viaduct",
+    "bridge:alt_name": "M4 Elevated Section",
+    "bridge:alt_name:wikidata": "Q117281285",
+    "bridge:name": "Wellesley Road Bridge",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "smoothness": "excellent",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 3256121,
+  "nodes": [
+    202471,
+    8723185912,
+    202474,
+    6820628910,
+    16014500,
+    206953122,
+    8723154358
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination": "Gatwick (M23);Dartford & (M20);Guildford (A3)",
+    "destination:ref": "M25",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source:maxspeed": "HA publicity",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4208524,
+  "nodes": [
+    205418,
+    2249146996,
+    2249146950,
+    2249146880,
+    1588920971
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination": "(M4, M3, M23);Heathrow;Gatwick",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4271626,
+  "nodes": [
+    446247361,
+    13954416328,
+    446248855,
+    13954416329,
+    446248857,
+    13954416330,
+    446248860,
+    446248863,
+    11361661678,
+    446248865,
+    446248867,
+    446248872,
+    1522785
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Stockley Road",
+    "oneway": "yes",
+    "ref": "A408",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4336469,
+  "nodes": [
+    197145,
+    13378755,
+    87297403
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4719503,
+  "nodes": [
+    30054191,
+    13964521731,
+    13964521733,
+    13964521734,
+    13964521735,
+    13964521736,
+    218682,
+    13964521737,
+    218683,
+    13964521738,
+    13964521739,
+    218684,
+    13964521740,
+    13964521741,
+    252153137,
+    13964521744,
+    13964521745,
+    218685,
+    218671
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Maidenhead Bypass",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "old_ref": "A4(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 5061637,
+  "nodes": [
+    295274,
+    1769053358,
+    1409862474,
+    1409862476,
+    1409862464,
+    1409863566,
+    1409863560,
+    5210862714,
+    5210862717,
+    1409863554
+  ],
+  "tags": {
+    "bridge": "yes",
+    "dual_carriageway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Great West Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A4",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 8124674,
+  "nodes": [
+    10753784513,
+    225180,
+    1769066798,
+    2740395513,
+    2740395516,
+    225181,
+    1967381694,
+    2740380668,
+    2740380655,
+    1967381693,
+    225182,
+    2740395511,
+    1967381696,
+    2255535288,
+    225184,
+    225183,
+    2255492573,
+    2255490327,
+    2255490325,
+    2255490328,
+    225185,
+    345277330,
+    345277332,
+    225186,
+    2390052012,
+    345277335,
+    2255403116,
+    109924,
+    345271291,
+    345271293,
+    345275660,
+    345275662,
+    345271295,
+    345275663,
+    109925,
+    345271525,
+    3017754508,
+    2255395655,
+    345276135,
+    2255393762,
+    345279604,
+    10750183200
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "viaduct",
+    "bridge:name": "M4 Elevated Section",
+    "bridge:name:wikidata": "Q117281285",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 10155779,
+  "nodes": [
+    83796121,
+    1157879245,
+    197279,
+    83796901,
+    197281,
+    1157879105,
+    83807163,
+    197283,
+    83797441,
+    197285
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 22756251,
+  "nodes": [
+    13378745,
+    2761664715,
+    33081263,
+    197135,
+    197137
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23071051,
+  "nodes": [
+    202188,
+    1531105630,
+    1531105770,
+    444883298,
+    1762929339
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "The Parkway",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A312",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23071052,
+  "nodes": [
+    1762929330,
+    1762929295,
+    1833919121
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "The Parkway",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A312",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23075105,
+  "nodes": [
+    249072866,
+    253262940,
+    25676240
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "primary",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Stockley Road",
+    "oneway": "yes",
+    "postal_code": "UB11",
+    "ref": "A408",
+    "source:name": "OS OpenData Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23082484,
+  "nodes": [
+    13378775,
+    1616018139,
+    202118,
+    2308760564,
+    202127,
+    10289819593
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23082565,
+  "nodes": [
+    32553206,
+    1616029893
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk:both": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23117170,
+  "nodes": [
+    249573058,
+    295274
+  ],
+  "tags": {
+    "bridge": "yes",
+    "dual_carriageway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Great West Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A4",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 23160230,
+  "nodes": [
+    1588846830,
+    1588846772,
+    1588846676
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 23192174,
+  "nodes": [
+    250801027,
+    2960079362,
+    197322,
+    197320,
+    1777484306,
+    83791219
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 24150832,
+  "nodes": [
+    1517554590,
+    8804688941,
+    6819604163,
+    1596347434,
+    6819604165
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "destination": "The South West;Southampton;Bracknell;Basingstoke",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M3",
+    "shoulder": "yes",
+    "source": "video recording",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 24597127,
+  "nodes": [
+    267389904,
+    13378781,
+    2296094122,
+    13378779,
+    2296094127,
+    267846939,
+    202111,
+    267846984,
+    2429285503,
+    202109,
+    9241207,
+    2296094123,
+    25242929
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27579763,
+  "nodes": [
+    207007842,
+    2249147121,
+    2249147118,
+    1588920962,
+    1948215536
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "Birmingham;Oxford;(M4, M3, M23);Heathrow;Gatwick|(M4, M3, M23);Heathrow;Gatwick|(M4, M3, M23);Heathrow;Gatwick",
+    "destination:ref:lanes": "M40;M25|M25|M25",
+    "destination:symbol:lanes": "airport|airport|airport",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 37960284,
+  "nodes": [
+    218631,
+    218658,
+    13964405258,
+    13964405257,
+    249541029,
+    13964405256,
+    13964405255,
+    445842491,
+    13964405254,
+    13964405253,
+    218644,
+    13964405252,
+    252150127,
+    1490548003
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Slough-Maidenhead By-Pass",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "shoulder": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 38339023,
+  "nodes": [
+    452768137,
+    1690901697
+  ],
+  "tags": {
+    "bicycle": "discouraged",
+    "carriageway_ref": "A",
+    "destination:lanes": "Amersham;Denham;Slough;Non-motorway traffic|Birmingham;Oxford;Beaconsfield|Birmingham;Oxford;Beaconsfield",
+    "destination:ref:lanes": "A40|M25|M25",
+    "expressway": "yes",
+    "foot": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "A40",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 38339027,
+  "nodes": [
+    452768147,
+    212388
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "turn:lanes": "through;slight_left|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 41336175,
+  "nodes": [
+    197230,
+    2331846832,
+    13378801,
+    1616042096,
+    197227,
+    13378799,
+    2331888399,
+    197226,
+    32650878,
+    197222
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 41336177,
+  "nodes": [
+    505370659,
+    2337574392,
+    197232,
+    36679119,
+    197234,
+    36679109,
+    13378794,
+    197235,
+    197237,
+    13378785,
+    197239
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 42637746,
+  "nodes": [
+    532726812,
+    1762929347,
+    1762929286,
+    1833919127,
+    1762929330
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "The Parkway",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A312",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 45073981,
+  "nodes": [
+    1588921630,
+    1588921094,
+    1588921446
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "Uxbridge;London (W);Watford (M1);Stansted (M11)|Watford (M1);Stansted (M11)|Watford (M1);Stansted (M11)",
+    "destination:ref:lanes": "M40 (E);M25|M25|M25",
+    "destination:symbol:lanes": "airport|airport|airport",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 45073985,
+  "nodes": [
+    323752,
+    1189795689,
+    12092592,
+    205523,
+    1978328317
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination": "(M3, M23, M20);Staines (A30);Gatwick;Dartford",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 50642848,
+  "nodes": [
+    25676240,
+    2793854288,
+    2793854289,
+    2793854287,
+    1522641,
+    249071118
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "primary",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Stockley Road",
+    "oneway": "yes",
+    "postal_code": "UB11",
+    "ref": "A408",
+    "source:name": "OS OpenData Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 50894930,
+  "nodes": [
+    197271,
+    2296392052,
+    197272,
+    2296392051,
+    197273,
+    2296440761,
+    197254,
+    197253,
+    1616029896,
+    1616032937,
+    2296440758,
+    197241,
+    36491675
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 50895562,
+  "nodes": [
+    71049614,
+    197284,
+    91689371
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 50895567,
+  "nodes": [
+    83791219,
+    197318,
+    3190919862,
+    3190919867,
+    3190919879,
+    197316,
+    197305,
+    83791821
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 50895569,
+  "nodes": [
+    91689371,
+    1157879081,
+    1157879335,
+    1157879167,
+    1157879231,
+    1157879133,
+    83799155
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 51249716,
+  "nodes": [
+    244209729,
+    197132,
+    197128
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 51249719,
+  "nodes": [
+    87297403,
+    3148021184,
+    3148021181,
+    3148021175,
+    197147
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 51249722,
+  "nodes": [
+    197137,
+    13378763,
+    305084383,
+    6282930758,
+    13132284341,
+    6282930755,
+    197139,
+    13378771,
+    11501295946,
+    11501295947,
+    11501295948,
+    11501295949,
+    197141,
+    11501295950,
+    11501295951,
+    305084376,
+    197143
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 51940539,
+  "nodes": [
+    224831941,
+    292283,
+    292281,
+    21040336
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Kingston Bypass",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "source:ref": "local knowledge",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 52092341,
+  "nodes": [
+    2761758288,
+    2761758282,
+    2761758272,
+    13378770,
+    244209731
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 52092347,
+  "nodes": [
+    1678368585,
+    1678368574,
+    13378774,
+    6282838743,
+    197113,
+    6282838738,
+    6282838739,
+    25808838,
+    197115,
+    6282873221,
+    13380350,
+    25616600,
+    2765949416,
+    197119,
+    197120,
+    6282878064,
+    6282878060,
+    26162735,
+    6282879361,
+    197123,
+    33081267,
+    13378766,
+    811086055,
+    197125,
+    811086051,
+    197127,
+    26162718,
+    811086045,
+    450790413
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 52473345,
+  "nodes": [
+    197239,
+    2296440759,
+    197242,
+    13378784,
+    1616029901,
+    197252,
+    197255,
+    2296440760,
+    197266,
+    2296392049,
+    197267,
+    2296392055,
+    197268
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 55945971,
+  "nodes": [
+    702323920,
+    252285223
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "ref": "A332"
+  }
+},
+{
+  "type": "way",
+  "id": 55956221,
+  "nodes": [
+    702444690,
+    6738864564,
+    2834762479,
+    1366715
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "sign",
+    "name": "Royal Windsor Way",
+    "oneway": "yes",
+    "ref": "A332"
+  }
+},
+{
+  "type": "way",
+  "id": 79573599,
+  "nodes": [
+    212374,
+    1478963172,
+    1478962888,
+    1478962984,
+    1478962872,
+    1478962894,
+    1478963139
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "cycleway:left": "separate",
+    "cycleway:left:oneway": "no",
+    "cycleway:right": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "yes",
+    "highway": "trunk",
+    "horse": "no",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 79573600,
+  "nodes": [
+    212345,
+    6398580590,
+    6398580594,
+    6398580596,
+    6398580598,
+    445600094,
+    6398580585,
+    212347,
+    445600408,
+    212349,
+    445601079,
+    445601082,
+    445601084
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 79573601,
+  "nodes": [
+    9935203,
+    1478962884,
+    1478962932,
+    1478962954,
+    1478962967,
+    1478962910,
+    1478962874,
+    1478962983,
+    1478963120,
+    1478963011,
+    1478963119,
+    1478963116,
+    1478962998,
+    1478963070,
+    1478963045,
+    1478963124,
+    1478963114,
+    1478963131,
+    1478963126,
+    1478963025,
+    1478963118,
+    1478963064
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight:signed": "no",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 81517663,
+  "nodes": [
+    949971862,
+    13964405321,
+    252149761,
+    13964405322,
+    445842014,
+    13964405323,
+    218635,
+    13964405324,
+    445842250,
+    13964405325,
+    445842251,
+    13964405326,
+    218636,
+    6738880692,
+    13964405327,
+    252149742,
+    13964405328,
+    218622,
+    13964405329,
+    13964405330,
+    445842252,
+    13964405331,
+    218621,
+    13964405332,
+    13964405333,
+    6738880693,
+    13964405334,
+    218620,
+    6738880695,
+    13964405335,
+    6738880697,
+    13964405336,
+    218619,
+    13964405337,
+    13964405338,
+    218617,
+    13964405339,
+    13964405340,
+    13964405341,
+    6738880698,
+    13964405342,
+    218618,
+    13964405343,
+    6738880700,
+    13964405344,
+    218611,
+    6738880702,
+    196237412,
+    11091975611,
+    13964405346,
+    6738880703,
+    13964405347,
+    6738880704,
+    218612,
+    13964405348,
+    6738880721,
+    13964397585,
+    196237422,
+    218613,
+    13962481005,
+    6738880710,
+    13962481002,
+    218614,
+    6738880727,
+    13962481001,
+    218606,
+    13962480997,
+    13962480996,
+    6738880728,
+    6738880729,
+    13962480991,
+    218604,
+    13962480989,
+    252149605,
+    13962480988,
+    6738880730,
+    13962480985,
+    6738880732,
+    13962480984,
+    218602,
+    13962480983,
+    6738880731,
+    13962480982,
+    252149600,
+    13962480976,
+    6738880733,
+    13962480975,
+    218603,
+    13962480974,
+    6738880726,
+    13962480969,
+    6738880725,
+    13962480968,
+    218600,
+    13962480967,
+    6738880724,
+    13962480963,
+    252149596,
+    13962480962,
+    218596,
+    13962480961,
+    13962480958,
+    6738880723,
+    13962480956,
+    218595,
+    13962480953,
+    6738880722,
+    13962480951,
+    12262990863,
+    13962480949,
+    218592
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Slough-Maidenhead By-Pass",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 83813193,
+  "nodes": [
+    205498,
+    558662397
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 83813206,
+  "nodes": [
+    13959980716,
+    13959980717,
+    13959980718,
+    13959980719,
+    13959980720,
+    205899,
+    5682503028,
+    13959980721,
+    13959980722,
+    205895,
+    13959980723,
+    5682503025,
+    13959980724,
+    205893,
+    13959980725,
+    205498
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "destination:lanes": "Gatwick Airport;Heathrow (Terminals 4, 5 & Cargo)|Oxford;Watford|The West;Reading;Slough|The West;Reading;Slough|The West;Reading;Slough",
+    "destination:ref:lanes": "M25 South|M25 North|M4|M4|M4",
+    "destination:ref:to:lanes": "M3|M40;M1|||",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|||"
+  }
+},
+{
+  "type": "way",
+  "id": 83813209,
+  "nodes": [
+    205900,
+    13959980750,
+    249715122
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 83813215,
+  "nodes": [
+    179008924,
+    9753600904,
+    179007110,
+    253261902,
+    9753600905,
+    179007112,
+    2142804726,
+    2142804725,
+    9753600906,
+    9753600903,
+    1963481852
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "name": "Heathrow Airport Spur Road",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 83822841,
+  "nodes": [
+    1588846751,
+    8856191249,
+    2736446148,
+    2736446153,
+    1978322880,
+    2736446228,
+    1588846805,
+    1588846839,
+    1588846831,
+    2736446284,
+    1588846679,
+    2736446303,
+    499460745,
+    2736446370,
+    1677171484,
+    1597754175,
+    1677171493,
+    2736446487,
+    1597754205,
+    2736446514,
+    1588846771,
+    2736446531,
+    1588846773,
+    2736446545,
+    2736446556,
+    1588846704,
+    2736446703,
+    1588846820,
+    11489656624,
+    1588846808
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination": "(M4, M40, M1);Watford;Heathrow (Terminals 1, 2 & 3)",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 103034796,
+  "nodes": [
+    205516,
+    9753633432,
+    9753633431,
+    324856,
+    9753633430,
+    13962280652,
+    2248763032,
+    13962280651,
+    13962280650,
+    1597754217,
+    13962280649,
+    1597754118,
+    13962280648,
+    2248763121,
+    13962280647,
+    205481,
+    13962280646,
+    1537285793,
+    2248763389,
+    324847,
+    13962280645,
+    178999742
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination": "Oxford;Watford;Stansted Airport",
+    "destination:ref": "M25",
+    "destination:ref:to": "M40;M1;M11",
+    "destination:symbol": ";;airport",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 130111983,
+  "nodes": [
+    197222,
+    9688752844,
+    1157879005,
+    9688752846,
+    9688752845,
+    197224
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "4.9",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 130111986,
+  "nodes": [
+    212329,
+    212331,
+    212333,
+    4158140007
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 131469598,
+  "nodes": [
+    205979,
+    8804689137,
+    202430,
+    1517189907
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination": "(M23, M20);Woking (A320);Gatwick;Dartford",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 131469731,
+  "nodes": [
+    202412,
+    8804689326,
+    6438391725,
+    206963656,
+    202413,
+    5370234392
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination": "Heathrow (M4);Watford & (M1);Staines (A30)",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 132778197,
+  "nodes": [
+    1460628264,
+    292248,
+    206094898,
+    292246
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Kingston Bypass",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 143485741,
+  "nodes": [
+    1570033081,
+    254695235,
+    1570019215,
+    2535881011
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "cycleway:left": "separate",
+    "dual_carriageway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147687435,
+  "nodes": [
+    1690901697,
+    1609231350,
+    1608908283,
+    1608908239
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "destination": "Birmingham;Oxford;Beaconsfield",
+    "destination:ref": "M40",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "old_ref": "A40",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Western Avenue",
+    "ref": "M40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147731406,
+  "nodes": [
+    1609258567,
+    4151921772,
+    2074619983,
+    1609258579,
+    1609258580
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "destination": "London;Uxbridge",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "shoulder": "yes",
+    "start_date": "1973",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 151571670,
+  "nodes": [
+    4404883841,
+    2736446251,
+    1643979869,
+    2736446254,
+    2736446256,
+    1643979871,
+    2736446258,
+    2736446261,
+    1643979873,
+    1643979875,
+    1643979877,
+    2736446273,
+    1643979883,
+    2736446286,
+    1643979886,
+    1643979888,
+    2736446311,
+    1643979890,
+    1643979893,
+    2736446386,
+    1643979896,
+    1643979898,
+    1643979900,
+    2736446465,
+    1643979904,
+    2736446479,
+    2736446481,
+    1697979895,
+    1643979906,
+    2736446493,
+    1643979908,
+    2736446501,
+    1643979911,
+    2736446505,
+    2736446510,
+    1643979913,
+    2736446518,
+    2736446520,
+    1643979916,
+    2736446524,
+    1643979921,
+    2736446528,
+    1643979929,
+    1643979934,
+    1643979942,
+    1643979951,
+    2736446546,
+    1643979973,
+    2736446558,
+    1643979995,
+    2736446567,
+    1643980006,
+    2736446603,
+    1643980015,
+    1643980027,
+    1643980038,
+    2736446700,
+    2736446731,
+    1643980082,
+    2736446769,
+    1643980224,
+    2736446809,
+    2736446815,
+    1643980607,
+    2736446823,
+    1643981034,
+    2736446826,
+    1643981286,
+    2736462135,
+    1643981449,
+    1643981619,
+    2736462138,
+    1643981672,
+    10025767585
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Stanwell Moor Road",
+    "old_ref": "B379",
+    "oneway": "yes",
+    "ref": "A3044",
+    "source:name": "OS_OpenData_Locator",
+    "source:ref": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 151866356,
+  "nodes": [
+    1647046832,
+    2736446189,
+    2736446214,
+    1647046836,
+    13297264104,
+    1647046843,
+    1647046875,
+    1647046877,
+    1647046880,
+    1647046883,
+    1647046888
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Airport Way",
+    "oneway": "yes",
+    "ref": "A3113",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "source:ref": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 154076830,
+  "nodes": [
+    1454265629,
+    6317087588,
+    1454265636,
+    292304,
+    1454265617,
+    6317086735
+  ],
+  "tags": {
+    "alt_name": "Kingston Bypass",
+    "destination": "Central London",
+    "destination:ref": "A3",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Malden Way",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "source:ref": "local knowledge",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 154288074,
+  "nodes": [
+    292217,
+    6281239391,
+    1668463346
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 165304481,
+  "nodes": [
+    345277580,
+    12194074,
+    2255510615,
+    2255510613,
+    2255492575,
+    225191,
+    8804548904,
+    225190,
+    2255535286,
+    2740395505,
+    1967381695,
+    225189,
+    1967381697,
+    2740380673,
+    2740380661,
+    1967381699,
+    1967381698,
+    2740395502,
+    2740395508,
+    1769066785,
+    225187,
+    10753784512
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "viaduct",
+    "bridge:name": "M4 Elevated Section",
+    "bridge:name:wikidata": "Q117281285",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 166018993,
+  "nodes": [
+    218592,
+    13962480940,
+    6738880719,
+    13962480939,
+    218583,
+    13962480938,
+    6738880718,
+    13962480937,
+    254022681
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Slough-Maidenhead By-Pass",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 166019001,
+  "nodes": [
+    286367961,
+    13964521713,
+    382413565,
+    13964521714,
+    218676,
+    13964521715,
+    382413567
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Maidenhead Bypass",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 166036028,
+  "nodes": [
+    218671,
+    13964521638,
+    382414035,
+    13964521639,
+    382414036,
+    13964521640,
+    286367657,
+    13964521641,
+    382414037,
+    13964521643,
+    218672,
+    13964521644,
+    13964521645,
+    218673
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Maidenhead Bypass",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 172080449,
+  "nodes": [
+    1830220233,
+    1625254699
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "yes",
+    "highway": "motorway",
+    "junction:ref": "14",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "name": "Terminal 5 Spur",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 186031571,
+  "nodes": [
+    13962223170,
+    13962458457,
+    5682500019,
+    13962458458,
+    205488,
+    13962458459,
+    13962458466,
+    13962458462,
+    252148267,
+    13962458470,
+    13962458471,
+    13962458472,
+    13962458473,
+    13962458474,
+    13962458475,
+    13962458476,
+    1967278946,
+    13962458477,
+    2002837467,
+    1967278971,
+    13962458480,
+    2002837463,
+    13962458481,
+    2002837459,
+    218574
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 186031572,
+  "nodes": [
+    218574,
+    13962458482,
+    252148676,
+    13962458483,
+    2002837457,
+    13962458484,
+    2002837447,
+    2002837453,
+    13962458485,
+    616342021
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 186031573,
+  "nodes": [
+    205491,
+    2248763515,
+    13962280670,
+    2248763524,
+    13962280669,
+    2248763533,
+    2248763539,
+    590562243,
+    2248763546,
+    2282017,
+    13962280668,
+    2248763550,
+    1967278958,
+    2248763551,
+    179001272
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 186031577,
+  "nodes": [
+    1967278956,
+    249715121,
+    13959980745,
+    13959980748,
+    13959980747,
+    13959980746,
+    205900
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|through|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 187070430,
+  "nodes": [
+    1643469193,
+    8807735746,
+    1218566442,
+    674143211,
+    4151763629,
+    4151763628,
+    12092605,
+    412820391,
+    403793961
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination": "(M4, M40, M1);Heathrow;Watford",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 187076877,
+  "nodes": [
+    1978322881,
+    1588846785,
+    1588846829,
+    1588846746,
+    1588846751
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "A3113;Heathrow (Terminal 4 & Cargo)| Heathrow (Terminal 5 only)|M25 (M4, M40, M1) Watford;Heathrow (Terminals 1, 2 & 3)|M25 (M4, M40, M1) Watford;Heathrow (Terminals 1, 2 & 3)|M25|M25",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 187079162,
+  "nodes": [
+    5939561214,
+    8870019401,
+    5939561233,
+    5939561236,
+    13962223186,
+    324839,
+    1597754203,
+    5939561224,
+    2248763661,
+    13962223187,
+    1597754130,
+    13962223188,
+    2248763645,
+    2248763635,
+    13962223189,
+    1597754145,
+    2248763618,
+    1597754094
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination": "Heathrow (Terminals 4, 5 & Cargo);(M23, M20);Gatwick;Dartford",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 187079164,
+  "nodes": [
+    1978345078,
+    1978345113,
+    7120050250,
+    1588921630
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "M40 (W)|M40 (W)|M25|M25|M25",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 187288605,
+  "nodes": [
+    1588921004,
+    207007842
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 187288607,
+  "nodes": [
+    1980078623,
+    1980078624,
+    205418
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "Birmingham;Oxford|Birmingham;Oxford|(M4, M3, M23);Heathrow;Gatwick|(M4, M3, M23);Heathrow;Gatwick|(M4, M3, M23);Heathrow;Gatwick",
+    "destination:ref:lanes": "M40|M40|M25|M25|M25",
+    "destination:symbol:lanes": "||airport|airport|airport",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "5",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source": "Bing",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 190399440,
+  "nodes": [
+    287792,
+    9753663380,
+    9753663379,
+    771811731,
+    9753663378,
+    179073352,
+    9753663377
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "maxspeed:variable": "no",
+    "motorway": "no",
+    "name": "Heathrow Airport Spur Road",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "left|left;through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 193978440,
+  "nodes": [
+    345287421,
+    202397,
+    1517077997,
+    1517078025,
+    1517078031,
+    1517078090,
+    1517078017,
+    1517554590
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M3",
+    "shoulder": "yes",
+    "source": "bing",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 196171226,
+  "nodes": [
+    86116943,
+    30184984,
+    9051972785,
+    10608736581,
+    3146836875,
+    1157879540
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Hanger Lane",
+    "name:etymology:wikidata": "Q131849813",
+    "oneway": "yes",
+    "postal_code": "W5",
+    "ref": "A4005",
+    "sidewalk:both": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 197276794,
+  "nodes": [
+    2075449740,
+    1690901753
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "Uxbridge;London (W)|Uxbridge;London (W)|Watford (M1);Stansted (M11)|Watford (M1);Stansted (M11)|Watford (M1);Stansted (M11)",
+    "destination:ref:lanes": "M40 (E)|M40 (E)|M25|M25|M25",
+    "destination:symbol:lanes": "||airport|airport|airport",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "5",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 197276795,
+  "nodes": [
+    1690901753,
+    1588921386,
+    9674169642,
+    205411,
+    1948214232
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination": "Rickmansworth;Watford & (M1);Harlow & (M11)",
+    "destination:ref": "M25",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 204777365,
+  "nodes": [
+    1747831001,
+    1747830968,
+    8764760467,
+    9277549,
+    6542738662,
+    9277552,
+    3094360151,
+    3729558039,
+    202324
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Country Way",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "A316",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 208598205,
+  "nodes": [
+    1647046888,
+    1647046895,
+    1647046903,
+    2736446285,
+    1647046924,
+    1647046928,
+    1647046933,
+    1647046937,
+    1647046939,
+    1647046941,
+    1647046942,
+    2736446339,
+    1647046949,
+    1647046955,
+    1647046961
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Airport Way",
+    "oneway": "yes",
+    "ref": "A3113",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "source:ref": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 224336244,
+  "nodes": [
+    1478963139,
+    1478962925,
+    1478963061,
+    1478962971,
+    1478962907,
+    1478962892,
+    1478963153,
+    2331575636,
+    2331575639,
+    2331575637,
+    445613689,
+    1609231346,
+    212383
+  ],
+  "tags": {
+    "bicycle": "no",
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 224336245,
+  "nodes": [
+    1478962887,
+    9935203
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 224337169,
+  "nodes": [
+    212388,
+    6398629597,
+    1609231355,
+    6314686775,
+    445614062,
+    2331575635,
+    2331575638,
+    2331575632,
+    445613553,
+    212379,
+    35785145,
+    212380,
+    1478962887
+  ],
+  "tags": {
+    "bicycle": "no",
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 224682208,
+  "nodes": [
+    252285223,
+    13157137785,
+    13157137784,
+    1366697
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "sign",
+    "name": "Royal Windsor Way",
+    "oneway": "yes",
+    "ref": "A332"
+  }
+},
+{
+  "type": "way",
+  "id": 226286309,
+  "nodes": [
+    32553207,
+    202103,
+    2296094112,
+    36486758,
+    202100,
+    2296392053,
+    197270,
+    197271
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 226286310,
+  "nodes": [
+    83791821,
+    1777475843,
+    1777475844
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 226759304,
+  "nodes": [
+    197198,
+    197197,
+    197196,
+    197190,
+    197191,
+    197194,
+    197182,
+    10133155890,
+    5225654622
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 233832116,
+  "nodes": [
+    2421579419,
+    202188
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "The Parkway",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A312",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 234432714,
+  "nodes": [
+    212340,
+    6398580645,
+    446030237,
+    445590167,
+    6398580680,
+    445590170,
+    1238253676
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 237741177,
+  "nodes": [
+    269336646,
+    1157879493,
+    9051972789,
+    1157879517
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Hanger Lane",
+    "oneway": "yes",
+    "postal_code": "W5",
+    "ref": "A4005",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 244236799,
+  "nodes": [
+    212342,
+    1839830510,
+    6398580634,
+    6398580637,
+    6398580619,
+    445593595,
+    6398580660,
+    1678581664,
+    212340
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 244247312,
+  "nodes": [
+    224831696,
+    3170340790,
+    224831562,
+    1517525520,
+    292272,
+    292276
+  ],
+  "tags": {
+    "alt_name": "Hook Rise North",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Kingston Bypass",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 246558791,
+  "nodes": [
+    2535881011,
+    2535881010,
+    197372,
+    71010484
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 246561138,
+  "nodes": [
+    1697713837,
+    197354,
+    10811491027,
+    2535873740,
+    3732313493,
+    71014266
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "turn:lanes": "through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 256088296,
+  "nodes": [
+    2617842490,
+    2617842495,
+    2617842499,
+    2617842508
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "expressway": "yes",
+    "foot": "yes",
+    "highway": "primary",
+    "horse": "yes",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Royal Windsor Way",
+    "oneway": "yes",
+    "ref": "A332",
+    "shoulder": "no",
+    "sidewalk": "separate",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 271662523,
+  "nodes": [
+    87301677,
+    244209730
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 271662646,
+  "nodes": [
+    13378754,
+    2765938108
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 271662648,
+  "nodes": [
+    305084375,
+    11501295953,
+    197140,
+    2765938825,
+    11501295952,
+    13378746,
+    2765938826,
+    11501295954,
+    1700918271,
+    11501295955,
+    1700918272,
+    11501295956,
+    11501295957,
+    305084382,
+    11501295958,
+    13378754
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 271663019,
+  "nodes": [
+    450790413,
+    197130,
+    87301677
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 309461290,
+  "nodes": [
+    3147959218,
+    197159,
+    197161,
+    87339925
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 311318818,
+  "nodes": [
+    3169312985,
+    10112883
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "A320 Woking;A317 Chertsey|A320 Woking;A317 Chertsey|M25;Heathrow (M4);Watford;Basingstoke (M3)|M25;Heathrow (M4);Watford;Basingstoke (M3)|M25;Heathrow (M4);Watford;Basingstoke (M3)",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "no",
+    "source:maxspeed": "HA publicity",
+    "surface": "concrete",
+    "turn:lanes": "slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 373363634,
+  "nodes": [
+    1522785,
+    11361661679,
+    1522805
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "primary",
+    "lit": "yes",
+    "name": "Stockley Road",
+    "oneway": "yes",
+    "ref": "A408",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 374542288,
+  "nodes": [
+    3779378248,
+    197198
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 413958792,
+  "nodes": [
+    206962851,
+    9649215007,
+    202412
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "M3 Basingstoke Southampton Richmond|M3 Basingstoke Southampton Richmond|M25 Heathrow M4;Watford & M1 Staines A30|M25 Heathrow M4;Watford & M1 Staines A30|M25 Heathrow M4;Watford & M1 Staines A30",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source:maxspeed": "HA publicity",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 413976131,
+  "nodes": [
+    1643469190,
+    1643469193
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "A30;London (W);Hounslow;Staines|A30;London (W);Hounslow;Staines|M25 (M40, M4 M1);Heathrow;Watford|M25 (M40, M4 M1);Heathrow;Watford|M25 (M40, M4 M1);Heathrow;Watford|M25 (M40, M4 M1);Heathrow;Watford",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 413976133,
+  "nodes": [
+    12092618,
+    1588846684,
+    205977,
+    206968221,
+    12092626,
+    4151763623,
+    205979
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 413986922,
+  "nodes": [
+    205517,
+    324858,
+    6738864568,
+    1189795674,
+    6738864570,
+    6738864573,
+    4151870512,
+    6738864575,
+    323752
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source": "Bing",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 413986923,
+  "nodes": [
+    323751,
+    1597754108,
+    1597754173,
+    1189795683,
+    324857,
+    13962280679,
+    1978333906,
+    1978333908,
+    8870019576,
+    205516
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "The West;Reading;Slough|London (West & Centre);Heathrow (Terminals 1, 2 & 3)|London (West & Centre);Heathrow (Terminals 1, 2 & 3)|Oxford, Watford, Stansted Airport|Oxford, Watford, Stansted Airport|Oxford, Watford, Stansted Airport",
+    "destination:ref:lanes": "M4|M4|M4|M25|M25|M25",
+    "destination:ref:to:lanes": "|||M40;M1;M11|M40;M1;M11|M40;M1;M11",
+    "destination:symbol:lanes": "|airport|airport|airport|airport|airport",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 414181445,
+  "nodes": [
+    1596367540,
+    2044867627,
+    1596368078,
+    1596368081,
+    1596368084,
+    1596368088,
+    206309965
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M3",
+    "source": "bing;GPS",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 414181448,
+  "nodes": [
+    4153576739,
+    1596367540
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M3",
+    "source": "bing;GPS",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 414697479,
+  "nodes": [
+    4158140007,
+    445592375,
+    9242093,
+    212335,
+    445591367,
+    445591369,
+    212337,
+    445589160,
+    446030171,
+    445589162,
+    6398580675,
+    1238253687,
+    6398580644,
+    6398580659
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 414697481,
+  "nodes": [
+    6398580659,
+    445593279,
+    6398580641,
+    6398580638,
+    6398580633,
+    212341,
+    6398580624,
+    445596755,
+    6398580611,
+    445596478,
+    6398580600,
+    6398580601,
+    212343,
+    6398580591,
+    212345
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "cycleway:left": "separate",
+    "cycleway:left:oneway": "no",
+    "cycleway:right": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "shoulder": "both",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 414697484,
+  "nodes": [
+    4158140004,
+    212334,
+    212332,
+    212330
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 417387501,
+  "nodes": [
+    4179451710,
+    1595261953
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "change:lanes": "yes|not_right|not_left|yes|yes",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M3",
+    "source": "bing;GPS",
+    "surface": "asphalt",
+    "turn:lanes": "left|left;slight_left|slight_left|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 420871969,
+  "nodes": [
+    206954333,
+    6820628911,
+    202471
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "source:maxspeed": "HA publicity",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 420886075,
+  "nodes": [
+    1608908333,
+    8872029432,
+    1608908351,
+    1608908256,
+    1608908285,
+    1608908265,
+    1608908305,
+    2249147012,
+    1608908282,
+    1608908261,
+    1608908336,
+    1608908254,
+    1608908268
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "shoulder": "yes",
+    "start_date": "1973",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 420886077,
+  "nodes": [
+    1608908289,
+    1608908333
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "shoulder": "yes",
+    "start_date": "1973",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 420886627,
+  "nodes": [
+    4207790353,
+    1690901702
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "start_date": "1973",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 420886631,
+  "nodes": [
+    1690901702,
+    26978442,
+    212402,
+    1609220078,
+    13497326
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "start_date": "1973",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 422052364,
+  "nodes": [
+    4217766779,
+    1690901757
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "source": "survey",
+    "source:maxspeed": "survey",
+    "start_date": "1973",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 422052373,
+  "nodes": [
+    1690901757,
+    5932069122,
+    5932069114,
+    12860709,
+    5932069110,
+    1609296786,
+    1609296782,
+    1609296775,
+    1609309547,
+    212504
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "source": "survey",
+    "source:maxspeed": "survey",
+    "start_date": "1973",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 422052374,
+  "nodes": [
+    5938833484,
+    5932069147,
+    1609296787,
+    1609296784,
+    1609296773,
+    1609296777,
+    1609291260,
+    5932069119,
+    1609287668,
+    5932069139,
+    1609287666
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "source": "survey",
+    "start_date": "1973",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 422067890,
+  "nodes": [
+    1609266635,
+    1609258567
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "change:lanes": "yes|not_right|not_left|yes",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "note": "testing split timing, will revert in a week",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Gerrards Cross Bypass",
+    "ref": "M40",
+    "source": "survey",
+    "start_date": "1973",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 483695888,
+  "nodes": [
+    227308172,
+    1667650223,
+    1454265629
+  ],
+  "tags": {
+    "alt_name": "Kingston Bypass",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Malden Way",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "source:ref": "local knowledge",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 501290749,
+  "nodes": [
+    1668991651,
+    1668991641,
+    1668991708,
+    1668991663,
+    1668991669,
+    2622876369,
+    1668991677,
+    295854,
+    1668991680,
+    1668991656,
+    247889347
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Country Way",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "source:name": "OS OpenData Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 501290751,
+  "nodes": [
+    1668991650,
+    565167051
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Country Way",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "source:name": "OS OpenData Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 501290755,
+  "nodes": [
+    202324,
+    6542738663,
+    202326,
+    13248164149
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Country Way",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "A316",
+    "sidewalk": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 501677179,
+  "nodes": [
+    295836,
+    295832
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Twickenham Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "source:name": "OS OpenData StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 501677180,
+  "nodes": [
+    1674543818,
+    1253127247
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "maxweight:signed": "no",
+    "name": "Country Way",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 540097173,
+  "nodes": [
+    5225652320,
+    197181
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 569615770,
+  "nodes": [
+    5477724767,
+    295836
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Twickenham Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "source:name": "OS OpenData StreetView",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 581616139,
+  "nodes": [
+    1777475844,
+    197301,
+    83793039,
+    1777475847
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 665213306,
+  "nodes": [
+    287731,
+    6226262871,
+    13959980644,
+    6226262870,
+    13959980643,
+    179008924
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination:lanes": "The West;Gatwick Airport|The West;Gatwick Airport|Uxbridge|Central London;Hayes",
+    "destination:ref:lanes": "M4 West|M4 West|A408|M4 East",
+    "destination:ref:to:lanes": "M25|M25||",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "name": "Heathrow Airport Spur Road",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "placement": "middle_of:3",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "left|left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 674274926,
+  "nodes": [
+    205916,
+    13959980664,
+    252145981
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 674274943,
+  "nodes": [
+    205910,
+    179009501,
+    6314667440,
+    179009502,
+    6314667437,
+    248576037
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 674274950,
+  "nodes": [
+    6226182569,
+    6314667443,
+    205910
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "placement": "middle_of:3",
+    "ref": "M4",
+    "smoothness": "excellent",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 689245460,
+  "nodes": [
+    6465876132,
+    11682818679,
+    197300,
+    1157879103,
+    6302864765,
+    1157879674,
+    6302864766,
+    1777475851,
+    83793103,
+    6302864756,
+    197302,
+    11682818713,
+    1777475850,
+    197303,
+    6290815869,
+    197315,
+    1777475846,
+    197317,
+    3190919884,
+    1777475834,
+    197319,
+    1777484315,
+    83791218
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 941984988,
+  "nodes": [
+    10112883,
+    8723185919,
+    202478,
+    1517540612,
+    206950145,
+    1517540631,
+    4460134
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "description": "London Orbital Motorway",
+    "destination": "Heathrow (M4);Watford & (M1);Basingstoke (M3)",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source:maxspeed": "HA publicity",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 951562792,
+  "nodes": [
+    1588846676,
+    8807735578
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination": "(M3, M23, M20);Southampton;Gatwick;Dartford",
+    "destination:ref": "M25",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 958641618,
+  "nodes": [
+    5939561223,
+    13962280641,
+    5939561225,
+    5939561214
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "description": "London Orbital Motorway",
+    "destination:lanes": "London (West);Heathrow (Terminals 1, 2 & 3)|The West;Slough;Reading|Heathrow (4, 5 & Cargo);Gatwick Airport;Dartford|Heathrow (4, 5 & Cargo);Gatwick Airport;Dartford|Heathrow (4, 5 & Cargo);Gatwick Airport;Dartford",
+    "destination:ref:lanes": "M4|M4|M25|M25|M25",
+    "destination:ref:to:lanes": "||M23;M20|M23;M20|M23;M20",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M25",
+    "shoulder": "yes",
+    "source": "Bing",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|none|none|none"
+  }
+},
+{
+  "type": "way",
+  "id": 1102546672,
+  "nodes": [
+    202102,
+    32553206
+  ],
+  "tags": {
+    "carriageway_ref": "A",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk:both": "no",
+    "surface": "asphalt",
+    "verge": "left"
+  }
+},
+{
+  "type": "way",
+  "id": 1102843358,
+  "nodes": [
+    197134,
+    33081264,
+    2761758288
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1110390641,
+  "nodes": [
+    10157965449,
+    1678870059,
+    1460628264
+  ],
+  "tags": {
+    "alt_name": "Hook Rise South",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Kingston Bypass",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "source:ref": "OS_OpenData_Locator",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1110390644,
+  "nodes": [
+    224831557,
+    1517525470,
+    224831696
+  ],
+  "tags": {
+    "alt_name": "Hook Rise North",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Kingston Bypass",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left;through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1110390645,
+  "nodes": [
+    292286,
+    224831941
+  ],
+  "tags": {
+    "alt_name": "Kingston Bypass",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Tolworth Rise South",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "source:ref": "local knowledge",
+    "surface": "asphalt",
+    "turn:lanes": "through|through|through;slight_right"
+  }
+},
+{
+  "type": "way",
+  "id": 1112577297,
+  "nodes": [
+    87339925,
+    10179024351
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "40 mph",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1118468636,
+  "nodes": [
+    197181,
+    2734620903,
+    2734620907,
+    86111612,
+    2734620935,
+    2734620945,
+    197178,
+    304689775,
+    2734620979,
+    197176,
+    2734621003,
+    304689765,
+    2734621011,
+    2082656212,
+    2734621021,
+    304689764,
+    2082656229,
+    197174
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1118468638,
+  "nodes": [
+    197175,
+    2082656243,
+    304689769,
+    2734621019,
+    304689770,
+    2734621008,
+    2082656238,
+    2734620985,
+    197177,
+    2734620971,
+    304689776,
+    197179,
+    2734620937,
+    2734620927,
+    86111492,
+    2734620905,
+    304689772,
+    2734620898,
+    197180
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1118468639,
+  "nodes": [
+    10229403155,
+    197175
+  ],
+  "tags": {
+    "covered": "yes",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1118468664,
+  "nodes": [
+    10229403159,
+    197169,
+    2082656217,
+    10229403175
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1211797772,
+  "nodes": [
+    1775073150,
+    13964498439,
+    218674,
+    13964498442,
+    12262990864,
+    13964498443,
+    13964498444,
+    286367961
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Maidenhead Bypass",
+    "destination:lanes": "Slough (W);South Wales;Reading;Maidenhead|South Wales;Reading;Maidenhead|South Wales;Reading;Maidenhead|South Wales;Reading;Maidenhead",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left;through|||"
+  }
+},
+{
+  "type": "way",
+  "id": 1218545405,
+  "nodes": [
+    2617842468,
+    2617842484,
+    2617842490
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "expressway": "yes",
+    "foot": "yes",
+    "highway": "primary",
+    "horse": "yes",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Royal Windsor Way",
+    "oneway": "yes",
+    "ref": "A332",
+    "shoulder": "no",
+    "sidewalk": "separate",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1234487624,
+  "nodes": [
+    1366715,
+    11458275461
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "sign",
+    "name": "Royal Windsor Way",
+    "oneway": "yes",
+    "ref": "A355"
+  }
+},
+{
+  "type": "way",
+  "id": 1234487625,
+  "nodes": [
+    1366715,
+    1685241064
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "primary",
+    "lit": "yes",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "sign",
+    "name": "Woodham Road",
+    "oneway": "yes",
+    "ref": "A332"
+  }
+},
+{
+  "type": "way",
+  "id": 1237088230,
+  "nodes": [
+    1595261953,
+    9649244326,
+    1517064052,
+    12862412,
+    1517064065,
+    1517064066,
+    1517066309,
+    1517067731
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M3",
+    "shoulder": "yes",
+    "source": "bing;GPS",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1238173779,
+  "nodes": [
+    11501295959,
+    244209729
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "North Circular Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A406",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1239406685,
+  "nodes": [
+    252145838,
+    205921,
+    13959980683,
+    444891458
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1241568384,
+  "nodes": [
+    212330,
+    202130,
+    11536210707
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1306674636,
+  "nodes": [
+    12101338982,
+    2960079345,
+    2960079343,
+    1697713837
+  ],
+  "tags": {
+    "carriageway_ref": "B",
+    "dual_carriageway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Western Avenue",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A40",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1325282942,
+  "nodes": [
+    12262990866,
+    252150488
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "alt_name": "Hunterscombe Spur",
+    "construction_contract_name": "Maidenhead By-Pass",
+    "destination:ref": "M4",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "name": "Huntercombe Spur",
+    "national_highways:area": "3",
+    "old_ref": "A4(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1334860591,
+  "nodes": [
+    12349001900,
+    5938833484
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "6",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "project_name": "Beaconsfield Bypass",
+    "ref": "M40",
+    "source": "survey",
+    "start_date": "1971",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1334866552,
+  "nodes": [
+    12349083788,
+    13959980663,
+    205916
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "destination:lanes": "Heathrow;Harrow;Hounslow|Heathrow;Hounslow|Central London;Hammersmith|Central London;Hammersmith|Central London;Hammersmith",
+    "destination:symbol:lanes": "airport|airport|||",
+    "highway": "motorway",
+    "lanes": "5",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1356232334,
+  "nodes": [
+    12552080301,
+    269336646
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Hanger Lane",
+    "oneway": "yes",
+    "postal_code": "W5",
+    "ref": "A4005",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1429751555,
+  "nodes": [
+    13142818604,
+    1674543818
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "4",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "maxweight:signed": "no",
+    "name": "Country Way",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1429751557,
+  "nodes": [
+    13142818608,
+    1668991650
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Country Way",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "source:name": "OS OpenData Locator",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1430350005,
+  "nodes": [
+    13147913733,
+    1452626238
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Great Chertsey Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "source:name": "OS OpenData StreetView",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1443748259,
+  "nodes": [
+    13248164149,
+    1596367541
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Country Way",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "A316",
+    "sidewalk": "no",
+    "turn:lanes": "slight_left|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1443748260,
+  "nodes": [
+    1596367541,
+    1596368150,
+    9846451714,
+    9846451713
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination:ref": "M3",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "A316",
+    "sidewalk": "no",
+    "source": "bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1450062704,
+  "nodes": [
+    223517,
+    13299803193,
+    252144550,
+    223515,
+    1491262765,
+    13299803198,
+    252144560,
+    252144557,
+    223513,
+    8804548906,
+    13959980676,
+    252145838
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1450062705,
+  "nodes": [
+    1491262764,
+    13299803195,
+    223517
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "through|through|through|slight_right"
+  }
+},
+{
+  "type": "way",
+  "id": 1450071653,
+  "nodes": [
+    13299946386,
+    12185622
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "through|through|through|slight_right"
+  }
+},
+{
+  "type": "way",
+  "id": 1452856059,
+  "nodes": [
+    1452626238,
+    295817
+  ],
+  "tags": {
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxspeed:enforcement": "average",
+    "name": "Great Chertsey Road",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A316",
+    "source:name": "OS OpenData StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1528827055,
+  "nodes": [
+    13931611965,
+    1372157334
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "name": "Kingston Bypass",
+    "oneway": "yes",
+    "ref": "A309",
+    "source": "Surrey aerial",
+    "source:ref": "gound survey 18.09.2011",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1528827056,
+  "nodes": [
+    13931611968,
+    292217
+  ],
+  "tags": {
+    "alt_name": "Kingston Bypass",
+    "cutting": "yes",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Hook Underpass",
+    "oneway": "yes",
+    "operator": "Transport for London",
+    "operator:wikidata": "Q682520",
+    "ref": "A3",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1531951277,
+  "nodes": [
+    13962458465,
+    6738864559,
+    13962458467,
+    6738864561,
+    2282016,
+    6738864566,
+    13962280671,
+    6738864565,
+    2248763412,
+    205491
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "destination:lanes": "Watford;Oxford|Gatwick Airport;Heathrow (Terminals 4, 5 & Cargo)|Central London;Heathrow (Terminals 2 & 3)|Central London;Heathrow (Terminals 2 & 3)|Central London;Heathrow (Terminals 2 & 3)",
+    "destination:ref:lanes": "M25 North|M25 South|M4|M4|M4",
+    "destination:ref:to:lanes": "M1;M40|M3|||",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "5",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|slight_left|||"
+  }
+},
+{
+  "type": "way",
+  "id": 1532214529,
+  "nodes": [
+    1490547984,
+    13964405227,
+    218631
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "A",
+    "construction_contract_name": "Slough-Maidenhead By-Pass",
+    "destination:lanes": "Slough (C);WIndsor|SOUTH WALES;Reading;Slough (W)|SOUTH WALES;Reading;Slough (W)|SOUTH WALES;Reading;Slough (W)",
+    "destination:ref:lanes": "A355;(A322)|M4|M4|M4",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt",
+    "turn:lanes": "slight_left|||"
+  }
+},
+{
+  "type": "way",
+  "id": 1532214539,
+  "nodes": [
+    252150316,
+    218638,
+    13964405303,
+    218639,
+    1490547994
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Slough-Maidenhead By-Pass",
+    "destination:lanes": "Slough (C);Windsor|Windsor;London|London|London",
+    "destination:ref:lanes": "A355;(A332)|(A332);M4|M4|M4",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1532214540,
+  "nodes": [
+    13964405300,
+    252150316
+  ],
+  "tags": {
+    "active_traffic_management": "yes",
+    "carriageway_ref": "B",
+    "change:lanes": "no|not_left|yes|yes",
+    "construction_contract_name": "Slough-Maidenhead By-Pass",
+    "destination:lanes": "Slough (C);Windsor|Windsor;London|London|London",
+    "destination:ref:lanes": "A355;(A332)|(A332);M4|M4|M4",
+    "highway": "motorway",
+    "int_ref": "E 30",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "peak_traffic",
+    "national_highways:area": "3",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1532357180,
+  "nodes": [
+    12185622,
+    252144558,
+    1491262767,
+    223514,
+    13299946387,
+    252144524,
+    13299946388,
+    223516,
+    13299946389,
+    223518,
+    12185729,
+    13299946390,
+    223527,
+    13965601286,
+    252144409,
+    13965601287,
+    223529,
+    13965601288,
+    1491262763,
+    13965601289,
+    252144411,
+    13965601290,
+    13965601291
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "construction_contract_name": "Chiswick to Langley Special Road",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "sign",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO5",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M4",
+    "surface": "asphalt"
+  }
+}
+
+  ]
+}

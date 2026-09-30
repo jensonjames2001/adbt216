@@ -1,0 +1,228 @@
+{
+ "D2Payload": {
+  "version": "2025-03-04",
+  "modelBaseVersion": "3",
+  "lang": "en",
+  "feedDescription": "Road and Lane Closures",
+  "feedType": "SituationPublication",
+  "publicationTime": "2025-03-21T06:15:56Z",
+  "publicationCreator": {
+   "country": "gb",
+   "nationalIdentifier": "NationalHighways"
+  },
+  "situation": [
+   {
+    "idG": "384696",
+    "situationVersionTime": "2025-03-21T05:41:43Z",
+    "headerInformation": {
+     "confidentiality": "noRestriction",
+     "informationStatus": "real"
+    },
+    "situationRecord": [
+     {
+      "sitRoadOrCarriagewayOrLaneManagement": {
+       "idG": "1-1742368657-0985c698-d765-4085-b9c7-4c4d28205328",
+       "versionG": "1",
+       "situationRecordCreationTime": "2025-03-19T07:16:54Z",
+       "situationRecordVersionTime": "2025-03-21T05:41:43Z",
+       "probabilityOfOccurrence": "probable",
+       "complianceOption": "mandatory",
+       "roadOrCarriagewayOrLaneManagementType": {
+        "value": "other"
+       },
+       "source": {
+        "sourceIdentification": "roadworks"
+       },
+       "validity": {
+        "validityStatus": "planned",
+        "validityTimeSpecification": {
+         "overallStartTime": "2025-03-14T08:00:00Z",
+         "overallEndTime": "2025-03-15T06:00:00Z"
+        }
+       },
+       "cause": {
+        "causeType": "roadMaintenance",
+        "detailedCauseType": {
+         "roadMaintenanceType": [
+          "other"
+         ]
+        }
+       },
+       "generalPublicComment": [
+        {
+         "comment": "A120 both directions\nBlake End to Marks Farm roundabout - mobile lane closures/IPV for litter clearance works on behalf of Braintree District Council"
+        }
+       ],
+       "locationReference": {
+        "locLocationGroupByList": {
+         "locationContainedInGroup": [
+          {
+           "locLinearLocation": {
+            "gmlLineString": {
+             "locGmlLineString": {
+              "srsDimension": 2,
+              "srsName": "EPSG::4326",
+              "posList": "51.868835 0.525233 51.869 0.525917"
+             }
+            },
+            "supplementaryPositionalDescription": {
+             "locationDescription": "A120 eastbound between B1256 near Rayne (west) and A131 (south)",
+             "carriageway": [
+              {
+               "carriageway": {
+                "value": "extendedG",
+                "extendedValueG": "dualCarriageway"
+               },
+               "lane": [
+                {
+                 "laneUsage": {
+                  "value": "extendedG",
+                  "extendedValueG": "cl1"
+                 },
+                 "laneNumber": 1,
+                 "laneExtensionG": {
+                  "impactOnLanes": {
+                   "impactExtensionG": {
+                    "lanesStatus": "closed",
+                    "laneImpactDirection": "aligned"
+                   }
+                  }
+                 }
+                }
+               ],
+               "carriagewayExtensionG": {
+                "impactOnCarriageway": {
+                 "numberOfLanesRestricted": 1,
+                 "numberOfOperationalLanes": 3
+                }
+               }
+              }
+             ]
+            }
+           },
+           "locSingleRoadLinearLocation": {
+            "linearWithinLinearElement": [
+             {
+              "directionOnLinearSection": "eastBound",
+              "directionRelativeOnLinearSection": "aligned",
+              "heightGradeOfLinearSection": {
+               "value": "extendedG",
+               "extendedValueG": "start2End1"
+              },
+              "linearElement": {
+               "locLinearElementByCode": {
+                "roadName": "A120",
+                "linearElementReferenceModel": "The Network Model",
+                "linearElementIdentifier": "{33332A8E-2026-4D6D-9B3E-5421B4A85121}",
+                "linearElementByCodeExtensionG": {
+                 "linearElementType": "aCarriageway"
+                }
+               }
+              },
+              "fromPoint": {
+               "locDistanceFromLinearElementStart": {
+                "distanceAlong": 0
+               }
+              },
+              "toPoint": {
+               "locDistanceFromLinearElementStart": {
+                "distanceAlong": 50
+               }
+              }
+             }
+            ]
+           }
+          },
+          {
+           "locLinearLocation": {
+            "gmlLineString": {
+             "locGmlLineString": {
+              "srsDimension": 2,
+              "srsName": "EPSG::4326",
+              "posList": "51.869825 0.534082 51.869803 0.534249 51.869803 0.534252"
+             }
+            },
+            "supplementaryPositionalDescription": {
+             "locationDescription": "A120 eastbound within the A131 (south) junction",
+             "carriageway": [
+              {
+               "carriageway": {
+                "value": "extendedG",
+                "extendedValueG": "dualCarriageway"
+               },
+               "lane": [
+                {
+                 "laneUsage": {
+                  "value": "extendedG",
+                  "extendedValueG": "cl1"
+                 },
+                 "laneNumber": 1,
+                 "laneExtensionG": {
+                  "impactOnLanes": {
+                   "impactExtensionG": {
+                    "lanesStatus": "closed",
+                    "laneImpactDirection": "aligned"
+                   }
+                  }
+                 }
+                }
+               ],
+               "carriagewayExtensionG": {
+                "impactOnCarriageway": {
+                 "numberOfLanesRestricted": 1,
+                 "numberOfOperationalLanes": 2
+                }
+               }
+              }
+             ]
+            }
+           },
+           "locSingleRoadLinearLocation": {
+            "linearWithinLinearElement": [
+             {
+              "directionOnLinearSection": "eastBound",
+              "directionRelativeOnLinearSection": "aligned",
+              "heightGradeOfLinearSection": {
+               "value": "extendedG",
+               "extendedValueG": "start2End2"
+              },
+              "linearElement": {
+               "locLinearElementByCode": {
+                "roadName": "A120",
+                "linearElementReferenceModel": "The Network Model",
+                "linearElementIdentifier": "{6663B77B-43E4-4D94-A32E-5D61D93D2BEB}",
+                "linearElementByCodeExtensionG": {
+                 "linearElementType": "aCarriageway"
+                }
+               }
+              },
+              "fromPoint": {
+               "locDistanceFromLinearElementStart": {
+                "distanceAlong": 0
+               }
+              },
+              "toPoint": {
+               "locDistanceFromLinearElementStart": {
+                "distanceAlong": 11
+               }
+              }
+             }
+            ]
+           }
+          }
+         ]
+        }
+       },
+       "roadOrCarriagewayOrLaneManagementExtensionG": {
+        "hasWidthRestrictionFlag": false,
+        "hasHeightRestrictionFlag": false,
+        "hasWeightRestrictionFlag": false,
+        "hasContraFlow": false
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,64 @@
+# Recovery Giant breakdown alerts. Edit and restart the service to apply.
+
+base:                 # used for the straight-line distance in each alert
+  lat: 51.4489
+  lon: -0.4094
+  name: Feltham
+
+box:                  # coverage area; reports outside it are dropped
+  west: -0.70
+  south: 51.36
+  east: -0.25
+  north: 51.60
+
+roads: [M25, M3, M4, A316]   # reports on other roads are dropped
+
+kinds:
+  breakdown: true
+  accident: false
+  lane_closure: true
+
+poll:                 # seconds between polls, per source
+  tomtom_tiles: 120
+  tomtom_zoom: 10     # tile zoom level; Phase 0 decides (10, 11 or 12)
+  nh: 120
+  waze: 120
+
+merge:
+  distance_m: 750     # same road, within this distance = same case
+  window_min: 45      # first seen within this many minutes = same case
+  clear_after_min: 10 # no source has reported it for this long = cleared
+  stale_after_min: 120
+
+waze:
+  enabled: false
+  backend: direct     # direct | provider
+  provider: ""        # e.g. openwebninja | apify (backend B only)
+  min_reliability: 5
+  max_age_min: 20
+  grid: 2             # box split into grid x grid cells for the ~200-alert cap
+  poll_min_seconds: 120
+
+nh:
+  own_alerts: true    # send an alert for an unplanned lane closure no other source has
+  window_hours: 6     # startDateTime = now - window_hours
+  max_calls_per_min: 5
+
+budget:               # per calendar month; the service stops the product at the cap
+  tomtom_tiles: 180000
+  tomtom_details: 2300
+  tomtom_tiles_free: 200000
+  tomtom_details_free: 2500
+
+telegram:
+  timezone: Europe/London
+  daily_summary: "08:00"
+
+health:
+  timeout_s: 10
+  failures_before_warning: 5
+
+storage:
+  sqlite: data/rgalerts.sqlite
+  junctions: data/junctions.json
+  roads: data/roads.json

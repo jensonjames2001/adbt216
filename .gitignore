@@ -1,0 +1,11 @@
+.env
+*.sqlite
+*.sqlite-journal
+*.db
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+fixtures/live/
+probes/out/
+fixtures/*/live/

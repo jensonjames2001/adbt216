@@ -1,0 +1,128 @@
+{
+ "D2Payload": {
+  "version": "2025-03-04",
+  "modelBaseVersion": "3",
+  "lang": "en",
+  "feedDescription": "Road and Lane Closures",
+  "feedType": "SituationPublication",
+  "publicationTime": "2025-03-20T11:32:00Z",
+  "publicationCreator": {
+   "country": "gb",
+   "nationalIdentifier": "NationalHighways"
+  },
+  "situation": [
+   {
+    "idG": "000007-20032025 - 110312",
+    "situationVersionTime": "2025-03-20T11:30:37Z",
+    "headerInformation": {
+     "confidentiality": "noRestriction",
+     "informationStatus": "real"
+    },
+    "situationRecord": [
+     {
+      "sitRoadOrCarriagewayOrLaneManagement": {
+       "idG": "1742580170-ee8afbb2-efad-4380-954e-a2ec6e9021b2",
+       "versionG": "1742472564388",
+       "situationRecordCreationTime": "2025-03-20T11:28:24Z",
+       "situationRecordVersionTime": "2025-03-20T11:30:37Z",
+       "probabilityOfOccurrence": "certain",
+       "complianceOption": "mandatory",
+       "roadOrCarriagewayOrLaneManagementType": {
+        "value": "laneClosures"
+       },
+       "source": {
+        "sourceIdentification": "Incident Management"
+       },
+       "validity": {
+        "validityStatus": "definedByValidityTimeSpec",
+        "validityTimeSpecification": {
+         "overallStartTime": "2025-03-20T11:03:12Z",
+         "overallEndTime": "2025-03-20T12:24:23Z"
+        }
+       },
+       "cause": {
+        "causeType": "vehicleObstruction",
+        "detailedCauseType": {
+         "vehicleObstructionType": "brokenDownVehicle"
+        }
+       },
+       "generalPublicComment": [
+        {
+         "comment": "Breakdown [M62A/M60A, Eccles from 0.72 to 0.72]"
+        }
+       ],
+       "locationReference": {
+        "locPointLocation": {
+         "pointByCoordinates": {
+          "pointCoordinates": {
+           "latitude": 53.489254,
+           "longitude": -2.3784728
+          }
+         },
+         "pointAlongLinearElement": [
+          {
+           "directionAtPoint": "souththbound",
+           "directionRelativeAtPoint": "aligned",
+           "heightGradeOfPoint": {
+            "value": "extendedG",
+            "extendedValueG": "start1End1"
+           },
+           "linearElement": {
+            "locLinearElementByCode": {
+             "roadName": "M62",
+             "linearElementReferenceModel": "The Network Model",
+             "linearElementIdentifier": "{}",
+             "linearElementByCodeExtensionG": {
+              "linearElementType": "aCarriageway"
+             }
+            }
+           },
+           "distanceAlongLinearElement": {
+            "locDistanceFromLinearElementStart": {
+             "distanceAlong": 0.72
+            }
+           }
+          }
+         ],
+         "supplementaryPositionalDescription": {
+          "locationDescription": "link road from M62 J10 westbound to M6 J21A northbound",
+          "carriageway": [
+           {
+            "carriageway": {
+             "value": "slipRoads"
+            },
+            "lane": [
+             {
+              "laneUsage": {
+               "value": "extendedG",
+               "extendedValueG": "cl2"
+              },
+              "laneNumber": 2,
+              "laneExtensionG": {
+               "impactOnLanes": {
+                "impactExtensionG": {
+                 "lanesStatus": "closed",
+                 "laneImpactDirection": "aligned"
+                }
+               }
+              }
+             }
+            ],
+            "carriagewayExtensionG": {
+             "impactOnCarriageway": {
+              "numberOfLanesRestricted": 1,
+              "numberOfOperationalLanes": 1
+             }
+            }
+           }
+          ]
+         }
+        }
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

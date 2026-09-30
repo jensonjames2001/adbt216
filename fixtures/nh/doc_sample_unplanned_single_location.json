@@ -1,0 +1,184 @@
+{
+ "D2Payload": {
+  "version": "2025-03-04",
+  "modelBaseVersion": "3",
+  "lang": "en",
+  "feedDescription": "Road and Lane Closures",
+  "feedType": "SituationPublication",
+  "publicationTime": "2025-03-21T06:27:56Z",
+  "publicationCreator": {
+   "country": "gb",
+   "nationalIdentifier": "NationalHighways"
+  },
+  "situation": [
+   {
+    "idG": "signs/M6-S6216B",
+    "situationVersionTime": "2025-03-21T06:03:57Z",
+    "headerInformation": {
+     "confidentiality": "noRestriction",
+     "informationStatus": "real"
+    },
+    "situationRecord": [
+     {
+      "sitRoadOrCarriagewayOrLaneManagement": {
+       "idG": "7-1742580170-ee8afbb2-efad-4380-954e-a2ec6e9021b2-close",
+       "versionG": "1",
+       "situationRecordCreationTime": "2025-03-21T06:01:57Z",
+       "situationRecordVersionTime": "2025-03-21T06:03:57Z",
+       "probabilityOfOccurrence": "certain",
+       "complianceOption": "mandatory",
+       "roadOrCarriagewayOrLaneManagementType": {
+        "value": "laneClosures"
+       },
+       "source": {
+        "sourceIdentification": "Signs and Signals"
+       },
+       "validity": {
+        "validityStatus": "active",
+        "validityTimeSpecification": {
+         "overallStartTime": "2025-03-21T06:01:57Z",
+         "overallEndTime": "2025-03-21T06:16:57Z"
+        }
+       },
+       "cause": {
+        "causeType": "roadOrCarriagewayOrLaneManagement",
+        "detailedCauseType": {
+         "roadOrCarriagewayOrLaneManagementType": {
+          "value": "laneClosures"
+         }
+        }
+       },
+       "generalPublicComment": [
+        {
+         "comment": "laneClosures"
+        }
+       ],
+       "locationReference": {
+        "locLinearLocation": {
+         "gmlLineString": {
+          "locGmlLineString": {
+           "srsDimension": 2,
+           "srsName": "ESPG::4326",
+           "posList": "52.777935 -2.118535 52.777526 -2.118181 52.777445 -2.118107 52.777176 -2.117899 52.776718 -2.117557 52.776296 -2.117274 52.77573 -2.116931 52.774274 -2.116142 52.77402 -2.115997 52.772854 -2.115352 52.771916 -2.114844"
+          }
+         },
+         "supplementaryPositionalDescription": {
+          "locationDescription": "M6 southbound between J14 and J13",
+          "carriageway": [
+           {
+            "carriageway": {
+             "value": "extendedG",
+             "extendedValueG": "dualCarriageway"
+            },
+            "lane": [
+             {
+              "laneUsage": {
+               "value": "extendedG",
+               "extendedValueG": "cl1"
+              },
+              "laneNumber": 1,
+              "laneExtensionG": {
+               "impactOnLanes": {
+                "impactExtensionG": {
+                 "lanesStatus": "closed",
+                 "laneImpactDirection": "aligned"
+                }
+               }
+              }
+             },
+             {
+              "laneUsage": {
+               "value": "extendedG",
+               "extendedValueG": "cl2"
+              },
+              "laneNumber": 2,
+              "laneExtensionG": {
+               "impactOnLanes": {
+                "impactExtensionG": {
+                 "lanesStatus": "open",
+                 "laneImpactDirection": "aligned"
+                }
+               }
+              }
+             },
+             {
+              "laneUsage": {
+               "value": "extendedG",
+               "extendedValueG": "cl3"
+              },
+              "laneNumber": 3,
+              "laneExtensionG": {
+               "impactOnLanes": {
+                "impactExtensionG": {
+                 "lanesStatus": "open",
+                 "laneImpactDirection": "aligned"
+                }
+               }
+              }
+             },
+             {
+              "laneUsage": {
+               "value": "extendedG",
+               "extendedValueG": "cl4"
+              },
+              "laneNumber": 4,
+              "laneExtensionG": {
+               "impactOnLanes": {
+                "impactExtensionG": {
+                 "lanesStatus": "open",
+                 "laneImpactDirection": "aligned"
+                }
+               }
+              }
+             }
+            ],
+            "carriagewayExtensionG": {
+             "impactOnCarriageway": {
+              "numberOfLanesRestricted": 1,
+              "numberOfOperationalLanes": 3
+             }
+            }
+           }
+          ]
+         }
+        },
+        "locSingleRoadLinearLocation": {
+         "linearWithinLinearElement": [
+          {
+           "directionOnLinearSection": "southBound",
+           "directionRelativeOnLinearSection": "aligned",
+           "heightGradeOfLinearSection": {
+            "value": "extendedG",
+            "extendedValueG": "start2End1"
+           },
+           "linearElement": {
+            "locLinearElementByCode": {
+             "roadName": "M6",
+             "linearElementReferenceModel": "The Network Model",
+             "linearElementIdentifier": "{68CEE502-B1B4-41ED-9823-0F1356C93FF0}",
+             "linearElementByCodeExtensionG": {
+              "linearElementType": "bCarriageway"
+             }
+            }
+           },
+           "fromPoint": {
+            "locDistanceFromLinearElementStart": {
+             "distanceAlong": 844
+            }
+           },
+           "toPoint": {
+            "locDistanceFromLinearElementStart": {
+             "distanceAlong": 26
+            }
+           }
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}
