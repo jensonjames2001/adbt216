@@ -41,6 +41,11 @@ and the probes need one to show London times. Full details in `probes/README.md`
 Coverage and roads are in `config.yaml`. Keys live only in `.env`, which is
 git-ignored and is never printed or saved.
 
+## Running on a Raspberry Pi
+
+A Pi 3B on the office broadband is the intended home for the service. Step-by-step
+setup, from writing the SD card to running the probes: `docs/PI_SETUP.md`.
+
 ## Junction and road data
 
 `data/junctions.json` (motorway junction numbers and names) and `data/roads.json`
